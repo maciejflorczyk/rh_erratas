@@ -1,8 +1,8 @@
 
-  * Site Visit Coming Up
-  * Account Team Update
-  * Important Security Errata
-  * Proactive Notifications
-  * What projects are currently active?
-    * What is needed from Red Hat on these projects?
-  * Additional items from the customer
+  - Site Visit Coming Up
+  - Account Team Update
+  - Important Security Errata
+  - Proactive Notifications
+  - What projects are currently active?
+    - What is needed from Red Hat on these projects?
+  - Additional items from the customer

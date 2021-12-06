@@ -1,5 +1,3 @@
-///// **General Discussion** /////
-
   * Product Lifecycle Updates
       * OCP 4.9.z
           * OCP 4.9.8 released on November 22nd [Release Notes](https://access.redhat.com/errata/RHBA-2021:4712)

@@ -5,4 +5,4 @@
 - What projects are currently active?
   - What is needed from Red Hat on these projects?
 - Additional items from the customer
-  \
+<br/>

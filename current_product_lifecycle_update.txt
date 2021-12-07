@@ -1,26 +1,27 @@
 - Product Lifecycle Updates
-  - OCP 4.9.z
-    - OCP 4.9.9 released on November 29th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4834)
-    - OCP 4.9.10 released on December 6th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4889)
-  - OCP 4.8.z
-    - OCP 4.8.22 released on November 30th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4830)
-    - OCP 4.8.23 planned to be released on December 7th
-  - OCP 4.7.z
-    - OCP 4.7.38 released on December 1st [Release Notes](https://access.redhat.com/errata/RHBA-2021:4802)
-    - OCP 4.7.39 planned to be released on December 8th
-  - OCP 4.6.z
-    - OCP 4.6.51 released on December 2nd [Release Notes](https://access.redhat.com/errata/RHBA-2021:4800)
-      - Important security update [Release Notes](https://access.redhat.com/errata/RHSA-2021:4799)
-  - OCP 3.11.z
-    - OCP 3.11.569 security update released on December 2nd [Release Notes](https://access.redhat.com/errata/RHSA-2021:4827)
-    - OCP 3.11.z bug fix planned to be released on December 8th
-  - Quay
-    - Quay 3.6 released https://access.redhat.com/errata/RHSA-2021:3917
-      - Quay 3.6.2 planned to be released on December 9th
-  - RHACM
-    - RHACM 2.4 released on November 12th
-      - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)
-    - RHACM 2.3
-      - RHACM 2.3.4 released on November 22nd [Release Notes](https://access.redhat.com/errata/RHBA-2021:4758)
-  - RHACS
-    - RHACS 3.66.1 released on October 20th [Release Notes](https://access.redhat.com/errata/RHBA-2021:3951)
+    - OCP 4.9.z
+        - OCP 4.9.9 released on November 29th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4834)
+        - OCP 4.9.10 released on December 6th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4889)
+    - OCP 4.8.z
+        - OCP 4.8.22 released on November 30th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4830)
+        - OCP 4.8.23 planned to be released on December 7th
+    - OCP 4.7.z
+        - OCP 4.7.38 released on December 1st [Release Notes](https://access.redhat.com/errata/RHBA-2021:4802)
+        - OCP 4.7.39 planned to be released on December 8th
+    - OCP 4.6.z
+        - OCP 4.6.51 released on December 2nd [Release Notes](https://access.redhat.com/errata/RHBA-2021:4800)
+            - Important security update [Release Notes](https://access.redhat.com/errata/RHSA-2021:4799)
+    - OCP 3.11.z
+        - OCP 3.11.569 security update released on December 2nd [Release Notes](https://access.redhat.com/errata/RHSA-2021:4827)
+        - OCP 3.11.z bug fix planned to be released on December 8th
+    - Quay
+        - Quay 3.6 released https://access.redhat.com/errata/RHSA-2021:3917
+            - Quay 3.6.2 planned to be released on December 9th
+    - RHACM
+        - RHACM 2.4 released on November 12th
+            - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)
+        - RHACM 2.3
+            - RHACM 2.3.4 released on November 22nd [Release Notes](https://access.redhat.com/errata/RHBA-2021:4758)
+    - RHACS
+      - RHACS 3.66.1 released on October 20th [Release Notes](https://access.redhat.com/errata/RHBA-2021:3951)
+  

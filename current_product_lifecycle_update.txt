@@ -22,4 +22,3 @@
             - RHACM 2.3.5 released on December 6th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4966)
     - RHACS
         - RHACS 3.67.1 released on December 6th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4952)
-  

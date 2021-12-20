@@ -15,6 +15,7 @@
         - OCP 4.6.52 released on December 15th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5010)
         - Critical: OpenShift Container Platform 4.6.52 security update released on December 16th 
             - [RHSA-2021:5106](https://access.redhat.com/errata/RHSA-2021:5106)
+            - [RHSA-2021:5141](https://access.redhat.com/errata/RHSA-2021:5141)
             - [RHSA-2021:5186](https://access.redhat.com/errata/RHSA-2021:5186)
     - OCP 3.11.z
         - OCP 3.11.570 released on December 9th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4929)

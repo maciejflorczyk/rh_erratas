@@ -8,7 +8,7 @@
         - OCP 4.8.24 released on December 14th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4999)
         - OCP 4.8.25 planned to be released on January 5th
     - OCP 4.7.z
-        - OCP 4.7.40 planned to be released on December 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5088)
+        - OCP 4.7.40 released on December 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5088)
         - Critical: OpenShift Container Platform 4.7.40 security update released on December 16th
             - [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2021:5107)
             - [RHSA-2021:5184](https://access.redhat.com/errata/RHSA-2021:5184)

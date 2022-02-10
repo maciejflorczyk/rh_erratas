@@ -1,14 +1,14 @@
 - Product Lifecycle Updates
     - OCP 4.9.z
-        - OCP 4.9.16 is skipped
         - OCP 4.9.17 released on January 24th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0195)
         - OCP 4.9.18 planned released on January 31th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0279)
-        - OCP 4.9.19 planned to be released on February 9th
+        - OCP 4.9.19 planned released on February 10th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0340)
+        - OCP 4.9.20 planned to be released on February 14th
     - OCP 4.8.z
         - OCP 4.8.27 released on January 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0113)
         - OCP 4.8.28 released on January 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0172)
         - OCP 4.8.29 released on February 1st [Release Notes](https://access.redhat.com/errata/RHBA-2022:0278)
-        - OCP 4.8.30 planned to be released on February 10th
+        - OCP 4.8.30 planned to be released on February 15th
     - OCP 4.7.z
         - OCP 4.7.41 released on January 19th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0117)
         - Moderate: OpenShift Container Platform 4.7.41 security update released on January 19th
@@ -16,7 +16,7 @@
         - OCP 4.7.42 released on February 2nd [Release Notes](https://access.redhat.com/errata/RHBA-2022:0286)
         - Moderate: OpenShift Container Platform 4.7.42 security update released on February 3rd
             - [RHSA-2022:0283](https://access.redhat.com/errata/RHSA-2022:0283)
-        - OCP 4.7.43 planned to be released on February 11th
+        - OCP 4.7.43 planned to be released on February 16th
     - OCP 4.6.z
         - OCP 4.6.53 released on January 12th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0025)
         - OCP 4.6.54 released on January 27th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0180)

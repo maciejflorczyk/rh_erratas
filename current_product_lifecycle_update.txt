@@ -6,10 +6,11 @@
         - OCP 4.9.21 planned released on February 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0488)
         - OCP 4.9.22 planned to be released on February 21th
     - OCP 4.8.z
-        - OCP 4.8.27 released on January 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0113)
         - OCP 4.8.28 released on January 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0172)
         - OCP 4.8.29 released on February 1st [Release Notes](https://access.redhat.com/errata/RHBA-2022:0278)
-        - OCP 4.8.30 planned to be released on February 15th
+        - OCP 4.8.30 skipped
+        - OCP 4.8.29 released on February 15th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0484)
+        - OCP 4.8.32 planned to be released on February 22nd
     - OCP 4.7.z
         - OCP 4.7.41 released on January 19th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0117)
         - Moderate: OpenShift Container Platform 4.7.41 security update released on January 19th
@@ -31,6 +32,7 @@
             - [RHSA-2022:0236](https://access.redhat.com/errata/RHSA-2022:0236)
     - Quay
         - Quay 3.6.2 released on December 15th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5034)
+        - Quay 3.6.3 planned to be released on February 22nd
     - RHACM
         - RHACM 2.4 released on November 12th
             - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)

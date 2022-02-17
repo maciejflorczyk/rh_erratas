@@ -19,9 +19,9 @@
         - Moderate: OpenShift Container Platform 4.7.42 security update released on February 3rd
             - [RHSA-2022:0283](https://access.redhat.com/errata/RHSA-2022:0283)
         - OCP 4.7.43 released on February 16th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0494)
-        - Important: OpenShift Container Platform 4.7.43 security update
+        - Important: OpenShift Container Platform 4.7.43 security update released on February 16th
             - [RHSA-2022:0491](https://access.redhat.com/errata/RHSA-2022:0491)
-        - Moderate: OpenShift Container Platform 4.7.43 security update
+        - Moderate: OpenShift Container Platform 4.7.43 security update released on February 16th
             - [RHSA-2022:0492](https://access.redhat.com/errata/RHSA-2022:0492)
             - [RHSA-2022:0493](https://access.redhat.com/errata/RHSA-2022:0493)
     - OCP 4.6.z

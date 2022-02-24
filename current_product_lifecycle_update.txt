@@ -4,41 +4,50 @@
         - OCP 4.9.20 skipped
         - OCP 4.9.21 released on February 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0488)
         - OCP 4.9.22 released on February 21st [Release Notes](https://access.redhat.com/errata/RHBA-2022:0588)
+            - Security update Moderate:
+                - OpenShift Container Platform 4.9.22 security update released on February 23rd
+                    - [RHSA-2022:0561](https://access.redhat.com/errata/RHSA-2022:0561)
+                    - [RHSA-2022:0557](https://access.redhat.com/errata/RHSA-2022:0557)
         - OCP 4.9.23 planned to be released on February 28th
     - OCP 4.8.z
-        - OCP 4.8.28 released on January 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0172)
         - OCP 4.8.29 released on February 1st [Release Notes](https://access.redhat.com/errata/RHBA-2022:0278)
         - OCP 4.8.30 skipped
-        - OCP 4.8.29 released on February 15th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0484)
-        - OCP 4.8.32 planned to be released on February 23rd
+        - OCP 4.8.31 released on February 16th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0484)
+        - OCP 4.8.32 released on February 23rd [Release Notes](https://access.redhat.com/errata/RHBA-2022:0559)
         - OCP 4.8.33 planned to be released on March 1st
     - OCP 4.7.z
         - OCP 4.7.41 released on January 19th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0117)
-        - Moderate: OpenShift Container Platform 4.7.41 security update released on January 19th
-            - [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2022:0114)
+            - Security update Moderate:
+                - OpenShift Container Platform 4.7.41 security update released on January 19th
+                    - [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2022:0114)
         - OCP 4.7.42 released on February 2nd [Release Notes](https://access.redhat.com/errata/RHBA-2022:0286)
-        - Moderate: OpenShift Container Platform 4.7.42 security update released on February 3rd
-            - [RHSA-2022:0283](https://access.redhat.com/errata/RHSA-2022:0283)
+            - Security update Moderate:
+                - OpenShift Container Platform 4.7.42 security update released on February 3rd
+                    - [RHSA-2022:0283](https://access.redhat.com/errata/RHSA-2022:0283)
         - OCP 4.7.43 released on February 16th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0494)
-        - Important: OpenShift Container Platform 4.7.43 security update released on February 16th
-            - [RHSA-2022:0491](https://access.redhat.com/errata/RHSA-2022:0491)
-        - Moderate: OpenShift Container Platform 4.7.43 security update released on February 16th
-            - [RHSA-2022:0492](https://access.redhat.com/errata/RHSA-2022:0492)
-            - [RHSA-2022:0493](https://access.redhat.com/errata/RHSA-2022:0493)
+            - Security update Important:
+                - OpenShift Container Platform 4.7.43 security update released on February 16th
+                    - [RHSA-2022:0491](https://access.redhat.com/errata/RHSA-2022:0491)
+            - Security update Moderate:
+                - OpenShift Container Platform 4.7.43 security update released on February 16th
+                    - [RHSA-2022:0492](https://access.redhat.com/errata/RHSA-2022:0492)
+                    - [RHSA-2022:0493](https://access.redhat.com/errata/RHSA-2022:0493)
         - OCP 4.7.44 planned to be released on March 2nd
     - OCP 4.6.z
         - OCP 4.6.53 released on January 12th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0025)
         - OCP 4.6.54 released on January 27th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0180)
-        - Moderate: OpenShift Container Platform 4.6.54 extras and security update released on January 27th
-            - [RHSA-2022:0181](https://access.redhat.com/errata/RHSA-2022:0181)
+            - Security update Moderate:
+                - OpenShift Container Platform 4.6.54 extras and security update released on January 27th
+                    - [RHSA-2022:0181](https://access.redhat.com/errata/RHSA-2022:0181)
         - OCP 4.6.55 planned to be released on February 23rd
     - OCP 3.11.z
         - OCP 3.11.570 released on December 9th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4929)
-        - Moderate: OpenShift Container Platform 3.11.z security update released on December 14th
-            - [RHSA-2021:5094](https://access.redhat.com/errata/RHSA-2021:5094)
-        - Moderate: OpenShift Container Platform 3.11.570 security update released on January 25th
-            - [RHSA-2022:0236](https://access.redhat.com/errata/RHSA-2022:0236)
-        - OCP 3.11.571 planned to be released on February 24th
+        - Security update Moderate:
+            - OpenShift Container Platform 3.11.z security update released on December 14th
+                - [RHSA-2021:5094](https://access.redhat.com/errata/RHSA-2021:5094)
+           - OpenShift Container Platform 3.11.570 security update released on January 25th
+                - [RHSA-2022:0236](https://access.redhat.com/errata/RHSA-2022:0236)
+        - OCP 3.11.634 planned to be released on February 24th
     - Quay
         - Quay 3.6.2 released on December 15th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5034)
         - Quay 3.6.3 planned to be released on February 22nd

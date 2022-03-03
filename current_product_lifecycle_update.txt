@@ -50,7 +50,7 @@
         - OCP 3.11.634 planned to be released on February 24th
     - Quay
         - Quay 3.6.2 released on December 15th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5034)
-        - Quay 3.6.3 planned to be released on February 22nd
+        - Quay 3.6.3 released on March 2nd [Release Notes](https://access.redhat.com/errata/RHBA-2022:0554)
     - RHACM
         - RHACM 2.4 released on November 12th
             - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)

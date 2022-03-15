@@ -1,6 +1,4 @@
 - Product Lifecycle Updates
-    - OCP 4.10.z
-        - OCP 4.10 GA released on March 22th [Release Notes](https://access.redhat.com/errata/RHEA-2022:0748)
     - OCP 4.9.z
         - OCP 4.9.20 skipped
         - OCP 4.9.21 released on February 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0488)

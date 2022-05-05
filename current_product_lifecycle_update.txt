@@ -65,7 +65,7 @@
     - Quay
         - Quay 3.6.5 released on April 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1347)
         - Quay 3.6.6 released on April 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1511)
-        - Quay 3.6.7 released on May 1st [Release Notes](https://access.redhat.com/errata/RHBA-2022:93972)
+        - Quay 3.6.7 planned to be released on May 12th
     - RHACM
         - RHACM 2.4 released on November 12th
             - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)

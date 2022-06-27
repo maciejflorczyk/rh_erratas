@@ -1,21 +1,14 @@
 - Product Lifecycle Updates
     - OCP 4.10.z
-        - OCP 4.10.13 released on May 11th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1690)
-        - OCP 4.10.14 released on May 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:2178)
-        - OCP 4.10.15 released on May 23rd [Release Notes](https://access.redhat.com/errata/RHBA-2022:2258)
-        - OCP 4.10.z planned to be released on May 30th
+        - OCP 4.10.17 released on June 7th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4882)
+        - OCP 4.10.18 released on June 13th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4944)
+        - OCP 4.10.19 skipped
+        - OCP 4.10.20 planned to be released on June 28th
     - OCP 4.9.z
-        - OCP 4.9.32 released on May 12th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1694)
-        - OCP 4.9.33 released on May 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:2206)
-            - Security update - Important:
-                - OpenShift Container Platform 4.9.33 packages and security update released on May 18th
-                    - [RHSA-2022:2205](https://access.redhat.com/errata/RHSA-2022:2205)
-        - OCP 4.9.34 skipped
-        - OCP 4.9.35 released on May 25th
-            - Security update - Moderate:
-                - OpenShift Container Platform 4.9.35 bug fix and security update released on May 25th
-                    - [RHSA-2022:2283](https://access.redhat.com/errata/RHSA-2022:2283)
-        - OCP 4.9.z planned to be released on May 31st
+        - OCP 4.9.37 released on May 12th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4906)
+        - OCP 4.9.38 released on May 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4973)
+        - OCP 4.9.39 skipped
+        - OCP 4.9.40 planned to be released on June 29th
     - OCP 4.8.z
         - OCP 4.8.37 released on April 20th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1369)
         - OCP 4.8.38 skipped
@@ -68,6 +61,7 @@
         - Quay 3.6.6 released on April 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1511)
         - Quay 3.6.7 planned to be released on June 6th
     - RHACM
+        - RHACM 2.5 released on June 8th 2022
         - RHACM 2.4 released on November 12th
             - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)
             - RHACM 2.4.1 bug fix released on December 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:51984)

@@ -60,14 +60,13 @@
         - Quay 3.6.6 released on April 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1511)
         - Quay 3.6.7 released on June 8th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4848)
     - RHACM
-        - RHACM 2.5 released on June 8th 2022
+        - RHACM 2.5 released on June 8th 2022 [Release Notes](https://access.redhat.com/errata/RHSA-2022:4956)
         - RHACM 2.4 released on November 12th
-            - RHACM 2.4 bug fix released on November 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4674)
-            - RHACM 2.4.1 bug fix released on December 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:51984)
+            - RHACM 2.4.3 released on April 20th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1476)
+            - RHACM 2.4.4 released on May 3rd [Release Notes](https://access.redhat.com/errata/RHSA-2022:1681)
         - RHACM 2.3
-            - RHACM 2.3.5 released on December 6th [Release Notes](https://access.redhat.com/errata/RHBA-2021:4966)
-            - RHACM 2.3.7 released on March 7th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0762)
             - RHACM 2.3.9 released on April 5th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1238)
+            - RHACM 2.3.10 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1715)
     - RHACS
         - RHACS 3.67.2 released on December 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5201)
         - RHACS 3.68.1 released on February 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0521)

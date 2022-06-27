@@ -68,6 +68,6 @@
             - RHACM 2.3.9 released on April 5th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1238)
             - RHACM 2.3.10 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1715)
     - RHACS
-        - RHACS 3.67.2 released on December 16th [Release Notes](https://access.redhat.com/errata/RHBA-2021:5201)
-        - RHACS 3.68.1 released on February 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0521)
+        - RHACS 3.69 released on June 24th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5188)
+        - RHACS 3.70 released on June 2nd [Release Notes](https://access.redhat.com/errata/RHSA-2022:4880)
   

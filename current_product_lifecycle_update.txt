@@ -43,7 +43,7 @@
                     - [RHSA-2022:2264](https://access.redhat.com/errata/RHSA-2022:2264)
                 - OpenShift Container Platform 4.6.58 security and extras update
                     - [RHSA-2022:2265](https://access.redhat.com/errata/RHSA-2022:2265)
-        - OCP 4.6.z planned to be released on June 1st
+        - OCP 4.6.59 released 17th June [Release Notes](https://access.redhat.com/errata/RHBA-2022:4948)
     - OCP 3.11.z
         - OCP 3.11.634 released on February 24th [Release Notes](https://access.redhat.com/errata/RHBA-2022:0556)
         - OCP 3.11.664 released on April 1st [Release Notes](https://access.redhat.com/errata/RHBA-2022:1033)
@@ -51,10 +51,14 @@
             - Security update - Important:
                 - OpenShift Container Platform 3.11.685 security and bug fix update released on April 27th
                     - [RHSA-2022:1420](https://access.redhat.com/errata/RHSA-2022:1420)
+        - OCP 3.11.715 released on June 21st [Release Notes](https://access.redhat.com/errata/RHSA-2022:4999)
     - Quay
+        - Quay 3.7.0 released on 23rd May [Release Notes](https://access.redhat.com/errata/RHEA-2022:1736)
+        - Quay 3.7.1 released on 9th June [Release Notes](https://access.redhat.com/errata/RHBA-2022:4849)
+        - Quay 3.7.2 released on 27th June [Release Notes](https://access.redhat.com/errata/RHBA-2022:5091)
         - Quay 3.6.5 released on April 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1347)
         - Quay 3.6.6 released on April 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1511)
-        - Quay 3.6.7 planned to be released on June 6th
+        - Quay 3.6.7 released on June 8th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4848)
     - RHACM
         - RHACM 2.5 released on June 8th 2022
         - RHACM 2.4 released on November 12th

@@ -1,14 +1,14 @@
 - Product Lifecycle Updates
     - OCP 4.10.z
-        - OCP 4.10.18 released on June 13th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4944)
         - OCP 4.10.19 skipped
-        - OCP 4.10.20 released on June 28th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5172)
-        - OCP 4.10.21 planned to be released on July 5th
+        - OCP 4.10.20 released on June 28th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5172) (Current highest stable version)
+        - OCP 4.10.21 released on July 7th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5428)
+        - OCP 4.10.22 planned to be released on July 11th
     - OCP 4.9.z
-        - OCP 4.9.38 released on May 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4973)
         - OCP 4.9.39 skipped
-        - OCP 4.9.40 released on May 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5180)
-        - OCP 4.9.41 planned to be released on July 5th
+        - OCP 4.9.40 released on May 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5180) (Current highest stable version)
+        - OCP 4.9.41 released on July 6th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5434)
+        - OCP 4.9.42 planned to be released on July 12th
     - OCP 4.8.z
         - OCP 4.8.43 released on June 16th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4952)
         - OCP 4.8.44 released on June 22nd [Release Notes](https://access.redhat.com/errata/RHBA-2022:5032)

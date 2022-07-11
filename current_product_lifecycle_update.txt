@@ -10,9 +10,9 @@
         - OCP 4.9.41 released on July 6th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5434)
         - OCP 4.9.42 planned to be released on July 12th
     - OCP 4.8.z
-        - OCP 4.8.43 released on June 16th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4952)
         - OCP 4.8.44 released on June 22nd [Release Notes](https://access.redhat.com/errata/RHBA-2022:5032)
-        - OCP 4.8.45 released on June 30th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5167)
+        - OCP 4.8.45 released on June 30th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5167) (Current highest stable version)
+        - OCP 4.8.46 released on July 7th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5424)
         - OCP 4.8.46 planned to be released on July 6th
     - OCP 4.7.z
         - OCP 4.7.51 released on May 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:2267)
@@ -21,6 +21,8 @@
                     - [RHSA-2022:2268](https://access.redhat.com/errata/RHSA-2022:2268)
         - OCP 4.7.52 released on June 10th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4910)
         - OCP 4.7.53 released on June 16th [Release Notes](https://access.redhat.com/errata/RHSA-2022:4965)
+        - OCP 4.7.54 planned to be released on July 13th
+        
     - OCP 4.6.z
         - OCP 4.6.56 released on March 23rd [Release Notes](https://access.redhat.com/errata/RHBA-2022:0867)
             - Security update - Important:
@@ -49,12 +51,13 @@
                     - [RHSA-2022:1420](https://access.redhat.com/errata/RHSA-2022:1420)
         - OCP 3.11.715 released on June 21st [Release Notes](https://access.redhat.com/errata/RHSA-2022:4999)
     - Quay
-        - Quay 3.7.0 released on 23rd May [Release Notes](https://access.redhat.com/errata/RHEA-2022:1736)
-        - Quay 3.7.1 released on 9th June [Release Notes](https://access.redhat.com/errata/RHBA-2022:4849)
-        - Quay 3.7.2 released on 27th June [Release Notes](https://access.redhat.com/errata/RHBA-2022:5091)
-        - Quay 3.6.5 released on April 14th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1347)
+        - Quay 3.7.1 released on June 9th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4849)
+        - Quay 3.7.2 released on June 27th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5091)
+        - Quay 3.7.3 released on July 5th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5418)
+        
         - Quay 3.6.6 released on April 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1511)
         - Quay 3.6.7 released on June 8th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4848)
+        - Quay 3.6.8 released on July 5th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5417)
     - RHACM
         - RHACM 2.5 released on June 8th 2022 [Release Notes](https://access.redhat.com/errata/RHSA-2022:4956)
         - RHACM 2.4 released on November 12th

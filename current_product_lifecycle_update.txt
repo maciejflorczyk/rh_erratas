@@ -15,10 +15,6 @@
         - OCP 4.8.46 released on July 7th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5424)
         - OCP 4.8.46 planned to be released on July 6th
     - OCP 4.7.z
-        - OCP 4.7.51 released on May 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:2267)
-            - Security update - Moderate:
-                - OpenShift Container Platform 4.7.51 security update released on May 25th
-                    - [RHSA-2022:2268](https://access.redhat.com/errata/RHSA-2022:2268)
         - OCP 4.7.52 released on June 10th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4910)
         - OCP 4.7.53 released on June 16th [Release Notes](https://access.redhat.com/errata/RHSA-2022:4965)
         - OCP 4.7.54 planned to be released on July 13th
@@ -63,6 +59,7 @@
         - RHACM 2.4 released on November 12th
             - RHACM 2.4.3 released on April 20th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1476)
             - RHACM 2.4.4 released on May 3rd [Release Notes](https://access.redhat.com/errata/RHSA-2022:1681)
+            - RHACM 2.4.5 released on June 27th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5201)
         - RHACM 2.3
             - RHACM 2.3.9 released on April 5th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1238)
             - RHACM 2.3.10 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1715)

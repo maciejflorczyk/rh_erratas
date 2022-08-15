@@ -51,6 +51,7 @@
         - Quay 3.7.3 released on July 5th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5418)
         - Quay 3.7.4 released on July 18th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5559)
         - Quay 3.7.5 released on August 2nd [Release Notes](https://access.redhat.com/errata/RHBA-2022:5727)
+        - Quay 3.7.6 released on August 15th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5999)
         
         - Quay 3.6.6 released on April 25th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1511)
         - Quay 3.6.7 released on June 8th [Release Notes](https://access.redhat.com/errata/RHBA-2022:4848)

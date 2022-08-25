@@ -5,8 +5,8 @@
         - OCP 4.10.27 planned to be released on August 16th
     - OCP 4.9.z
         - OCP 4.9.44 skipped
-        - OCP 4.9.45 released on August 9th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5879) (Current highest stable version)
-        - OCP 4.9.46 released on August 17th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6033)
+        - OCP 4.9.45 released on August 9th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5879)
+        - OCP 4.9.46 released on August 17th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6033) (Current highest stable version)
         - OCP 4.9.47 planned to be released on TBC
     - OCP 4.8.z
         - OCP 4.8.45 released on June 30th [Release Notes](https://access.redhat.com/errata/RHBA-2022:5167)

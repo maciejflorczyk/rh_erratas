@@ -94,7 +94,7 @@
         - RHACS 3.71 released on July 25th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5704)
             - RHACS 3.71.1 released on October 4th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6793)
         - RHACS 3.72 released on September 26th [Release Notes](https://access.redhat.com/errata/RHSA-2022:6714)
-              - Security update - Moderate:
+            - Security update - Moderate:
                 - RHACS 3.72 enhancement and security update on September 26th
                     - [RHSA-2022:6714](https://access.redhat.com/errata/RHSA-2022:6714)
   

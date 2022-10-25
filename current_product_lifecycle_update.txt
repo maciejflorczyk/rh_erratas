@@ -22,7 +22,7 @@
                     - [RHSA-2022:6318](https://access.redhat.com/errata/RHSA-2022:6318)
         - OCP 4.9.49 released on September 29th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6678)
         - OCP 4.9.50 released on October 19th
-            - Bug-fix advisory
+            - Bug-fix advisory 
                 - released on October 19th [RHBA-2022:6903](https://access.redhat.com/errata/RHBA-2022:6903)
                 - released on October 19th [RHBA-2022:6906](https://access.redhat.com/errata/RHBA-2022:6906)
                 - released on October 20th [RHBA-2022:6907](https://access.redhat.com/errata/RHBA-2022:6907)
@@ -80,12 +80,12 @@
             - RHACM 2.6.1 released on September 12th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5531)
             - RHACM 2.6 bugfix advisory released on October 6th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6836)
         - RHACM 2.5 released on June 8th 2022 [Release Notes](https://access.redhat.com/errata/RHSA-2022:4956)
-            - RHACM 2.5.1 released on July 11th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5531)
             - RHACM 2.5.2 released on September 13th [Release Notes](https://access.redhat.com/errata/RHSA-2022:6507)
-            - RHACM 2.5.3 release on October 13th
+            - RHACM 2.5.3 released on October 13th
                 - Security update - Moderate:
                     - Red Hat Advanced Cluster Management 2.5.3 security fixes and bug fixes
                         - [RHSA-2022:6954](https://access.redhat.com/errata/RHSA-2022:6954)
+            - RHACM 2.5.3 released on October 24th [Release Notes](https://access.redhat.com/errata/RHBA-2022:7093)
         - RHACM 2.4 released on November 12th
             - RHACM 2.4.5 released on June 27th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5201)
             - RHACM 2.4.6 released on September 26th [Release Notes](https://access.redhat.com/errata/RHSA-2022:6696)

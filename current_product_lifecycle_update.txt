@@ -55,6 +55,12 @@
         - OCP 4.8.50 released on September 21st [Release Notes](https://access.redhat.com/errata/RHBA-2022:6511)
         - OCP 4.8.51 released on October 13th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6802)
         - OCP 4.8.52 released on October 27th [Release Notes](https://access.redhat.com/errata/RHBA-2022:7034)
+        - OCP 4.8.53 released on
+            - bug fix and security update - Important
+                - [RHSA-2022:7874](https://access.redhat.com/errata/RHSA-2022:7874)
+            - OLM Operators metadata update [RHBA-2022:7876](https://access.redhat.com/errata/RHBA-2022:7876)
+            - extras update [RHBA-2022:7875](https://access.redhat.com/errata/RHBA-2022:7875)
+            - packages update [RHBA-2022:7873](https://access.redhat.com/errata/RHBA-2022:7873)
     - OCP 4.7.z
         - OCP 4.7.55 released on July 25th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5660)
         - OCP 4.7.56 released on August 22nd

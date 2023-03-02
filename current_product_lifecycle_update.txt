@@ -175,4 +175,5 @@
         - RHACS 3.73 released on 2022-12-06 [RHSA-2022:8827](https://access.redhat.com/errata/RHSA-2022:8827)
             - RHACS 3.73.1 bug fix update released on 2022-12-19 [RHEA-2022:9097](https://access.redhat.com/errata/RHEA-2022:9097)
             - RHACS 3.73.2 enhancement update released on 2023-02-06 [RHBA-2023:0586](https://access.redhat.com/errata/RHBA-2023:0586)
+        - RHACS 3.74 released on 2023-02-27 [RHEA-2023:0926](https://access.redhat.com/errata/RHEA-2023:0926)
   

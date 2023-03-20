@@ -164,8 +164,11 @@
             - packages update [RHBA-2023:0898](https://access.redhat.com/errata/RHBA-2023:0898)
             - extras update [RHBA-2023:0900](https://access.redhat.com/errata/RHBA-2023:0900)
         - RHOCP 4.10.54 released on 2023-03-15
+            - security update
+                - important [RHSA-2023:1154](https://access.redhat.com/errata/RHSA-2023:1154)
+            - packages update [RHBA-2023:1153](https://access.redhat.com/errata/RHBA-2023:1153)
             - extras update [RHBA-2023:1155](https://access.redhat.com/errata/RHBA-2023:1155)
-            - RelPrep
+            - OLM Operators metadata update [RHBA-2023:1156](https://access.redhat.com/errata/RHBA-2023:1156)
 
 
     - RHOCP 4.9.z
@@ -258,7 +261,8 @@
             - Quay 3.8.0 released on 2022-12-06 [RHBA-2022:6976](https://access.redhat.com/errata/RHBA-2022:6976)
             - Quay 3.8.1 relesed on 2023-01-24 [RHBA-2023:0044](https://access.redhat.com/errata/RHBA-2023:0044)
             - Quay 3.8.2 relesed on 2023-02-15 [RHBA-2023:0789](https://access.redhat.com/errata/RHBA-2023:0789)
-            - Quay 3.8.3 relesed on 2023-02-28 [RHBA-2023:0906)](https://access.redhat.com/errata/RHBA-2023:0906)
+            - Quay 3.8.3 relesed on 2023-02-28 [RHBA-2023:0906](https://access.redhat.com/errata/RHBA-2023:0906)
+            - Quay 3.8.4 relesed on 2023-03-15 [RHBA-2023:1188](https://access.redhat.com/errata/RHBA-2023:1188)
 
     - RHACM
         - RHACM 2.3
@@ -301,6 +305,8 @@
                         - [RHSA-2023:0630](https://access.redhat.com/errata/RHSA-2023:0630)
             - RHACM 2.7.1 released on 2023-03-02
                 - bugfix update [RHBA-2023:1057](https://access.redhat.com/errata/RHBA-2023:1057)
+            - RHACM 2.7.2 released on 2023-03-15
+                - bugfix update [RHBA-2023:1259](https://access.redhat.com/errata/RHBA-2023:1259)
 
     - RHACS
         - RHACS 3.71 released on July 25th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5704)
@@ -318,5 +324,6 @@
             - RHACS 3.73.1 bug fix update released on 2022-12-19 [RHEA-2022:9097](https://access.redhat.com/errata/RHEA-2022:9097)
             - RHACS 3.73.2 enhancement update released on 2023-02-06 [RHBA-2023:0586](https://access.redhat.com/errata/RHBA-2023:0586)
             - RHACS 3.73.3 enhancement update released on 2023-03-06 [RHBA-2023:1076](https://access.redhat.com/errata/RHBA-2023:1076)
-        - RHACS 3.74 released on 2023-02-27 [RHEA-2023:0926](https://access.redhat.com/errata/RHEA-2023:0926)
-
+        - RHACS 3.74 released on 2023-02-27
+            - Product Enhancement Advisory [RHEA-2023:0926](https://access.redhat.com/errata/RHEA-2023:0926) released on 2023-02-27
+            - Security Advisory: Low [RHSA-2022:8827](https://access.redhat.com/errata/RHSA-2022:8827)

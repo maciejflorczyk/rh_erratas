@@ -54,7 +54,13 @@
             - OLM Operators metadata update [RHBA-2023:1165](https://access.redhat.com/errata/RHBA-2023:1165)
             - extras update [RHBA-2023:1164](https://access.redhat.com/errata/RHBA-2023:1164)
             - packages update [RHBA-2023:1162](https://access.redhat.com/errata/RHBA-2023:1162)
-
+        - RHOCP 4.12.8 released on 2023-03-21
+            - security update
+                - important [https://access.redhat.com/errata/RHSA-2023:1270](https://access.redhat.com/errata/RHSA-2023:1270)
+                - moderate [https://access.redhat.com/errata/RHSA-2023:1268](https://access.redhat.com/errata/RHSA-2023:1268)
+            - bug fix update [https://access.redhat.com/errata/RHBA-2023:1269](https://access.redhat.com/errata/RHBA-2023:1269)
+            - bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:1272](https://access.redhat.com/errata/RHBA-2023:1272)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:1271](https://access.redhat.com/errata/RHBA-2023:1271)
 
 
     - RHOCP 4.11.z
@@ -120,6 +126,12 @@
             - OLM Operators metadata update [RHBA-2023:1160](https://access.redhat.com/errata/RHBA-2023:1160)
             - packages update [RHBA-2023:1157](https://access.redhat.com/errata/RHBA-2023:1157)
             - low-latency extras update [RHEA-2023:1176](https://access.redhat.com/errata/RHEA-2023:1176)
+        - RHOCP 4.11.32 released on 2023-03-22
+            - security update
+                - important [https://access.redhat.com/errata/RHSA-2023:1297](https://access.redhat.com/errata/RHSA-2023:1297)
+            - bug fix update [https://access.redhat.com/errata/RHBA-2023:1296](https://access.redhat.com/errata/RHBA-2023:1296)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:1298](https://access.redhat.com/errata/RHBA-2023:1298)
+            - packages and security update update [https://access.redhat.com/errata/RHBA-2023:1295](https://access.redhat.com/errata/RHBA-2023:1295)
 
     - RHOCP 4.10.z
         - RHOCP 4.10.45 released on 2022-12-14
@@ -325,5 +337,7 @@
             - RHACS 3.73.2 enhancement update released on 2023-02-06 [RHBA-2023:0586](https://access.redhat.com/errata/RHBA-2023:0586)
             - RHACS 3.73.3 enhancement update released on 2023-03-06 [RHBA-2023:1076](https://access.redhat.com/errata/RHBA-2023:1076)
         - RHACS 3.74 released on 2023-02-27
+            - Security Advisory: Low [RHSA-2022:8827](https://access.redhat.com/errata/RHSA-2022:8827) released on 2022-12-06
             - Product Enhancement Advisory [RHEA-2023:0926](https://access.redhat.com/errata/RHEA-2023:0926) released on 2023-02-27
-            - Security Advisory: Low [RHSA-2022:8827](https://access.redhat.com/errata/RHSA-2022:8827)
+            - RHACS 3.74.1 [https://access.redhat.com/errata/RHBA-2023:1342](https://access.redhat.com/errata/RHBA-2023:1342) released on 2023-03-20
+  

@@ -173,7 +173,7 @@
             - CNF vRAN extras update [https://access.redhat.com/errata/RHEA-2023:1634](https://access.redhat.com/errata/RHEA-2023:1634)
             - security and extras update [https://access.redhat.com/errata/RHBA-2023:1651](https://access.redhat.com/errata/RHBA-2023:1651)
         - RHOCP 4.11.36 released on 2023-04-13
-                - bug fix update [https://access.redhat.com/errata/RHBA-2023:1733](https://access.redhat.com/errata/RHBA-2023:1733)
+            - bug fix update [https://access.redhat.com/errata/RHBA-2023:1733](https://access.redhat.com/errata/RHBA-2023:1733)
 
     - RHOCP 4.10.z
         - RHOCP 4.10.45 released on 2022-12-14

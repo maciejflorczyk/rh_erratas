@@ -467,6 +467,10 @@
             - RHACM 2.5.5 released on November 17th [RHBA-2022:8531](https://access.redhat.com/errata/RHBA-2022:8531)
             - RHACM 2.5.6 released on 2023-01-18 [RHBA-2023:0262](https://access.redhat.com/errata/RHBA-2023:0262)
             - RHACM 2.5.7 released on 2023-02-22 [RHBA-2023:0913](https://access.redhat.com/errata/RHBA-2023:0913)
+            - RHACM 2.5.8 released on 2023-05-03
+                - Moderate: Red Hat Advanced Cluster Management 2.5.8 security updates and bug fixes[https://access.redhat.com/errata/RHSA-2023:2104](https://access.redhat.com/errata/RHSA-2023:2104)
+            - RHACM 2.5.9 released on 2023-05-30
+                - Critical: Red Hat Advanced Cluster Management 2.5.9 security fixes and container updates [https://access.redhat.com/errata/RHSA-2023:3356](https://access.redhat.com/errata/RHSA-2023:3356)
         - RHACM 2.6 released on September 8th
             - RHACM 2.6.1 released on September 12th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5531)
             - RHACM 2.6 bugfix advisory released on October 6th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6836)
@@ -483,6 +487,8 @@
                 - Security update - Important:
                     - Red Hat Advanced Cluster Management 2.6.4 bug fixes and security updates released on 2023-02-15
                         - [RHSA-2023:0794](https://access.redhat.com/errata/RHSA-2023:0794)
+            - RHACM 2.6.5 released on 2023-05-02 [https://access.redhat.com/errata/RHSA-2023:2083](https://access.redhat.com/errata/RHSA-2023:2083)
+            - RHACM 2.6.6 released on 2023-05-25 [https://access.redhat.com/errata/RHSA-2023:3326](https://access.redhat.com/errata/RHSA-2023:3326)
         - RHACM 2.7 released on 2023-02-07
             - RHACM 2.7.0 released on 2023-02-07
                 - Security update - Important:
@@ -512,13 +518,15 @@
             - RHACS 3.73.1 bug fix update released on 2022-12-19 [RHEA-2022:9097](https://access.redhat.com/errata/RHEA-2022:9097)
             - RHACS 3.73.2 enhancement update released on 2023-02-06 [RHBA-2023:0586](https://access.redhat.com/errata/RHBA-2023:0586)
             - RHACS 3.73.3 enhancement update released on 2023-03-06 [RHBA-2023:1076](https://access.redhat.com/errata/RHBA-2023:1076)
-            - RHACS 3.73.3 enhancement update released on 2023-04-11 [https://access.redhat.com/errata/RHBA-2023:1709](https://access.redhat.com/errata/RHBA-2023:1709)
+            - RHACS 3.73.4 enhancement update released on 2023-04-11 [https://access.redhat.com/errata/RHBA-2023:1709](https://access.redhat.com/errata/RHBA-2023:1709)
+            - Important: Red Hat Advanced Cluster Security for Kubernetes 3.73 security update released on 2023-05-31 [https://access.redhat.com/errata/RHSA-2023:3379](https://access.redhat.com/errata/RHSA-2023:3379)
         - RHACS 3.74 released on 2023-02-27
             - Security Advisory: Low - released on 2022-12-06[RHSA-2022:8827](https://access.redhat.com/errata/RHSA-2022:8827)
             - Product Enhancement Advisory released on 2023-02-27 [RHEA-2023:0926](https://access.redhat.com/errata/RHEA-2023:0926)
             - RHACS 3.74.1 released on 2023-03-20 [https://access.redhat.com/errata/RHBA-2023:1342](https://access.redhat.com/errata/RHBA-2023:1342)
-            - RHACS 3.74.2 released on 2023-04-13 [https://access.redhat.com/errata/RHBA-2023:1773](https://access.redhat.com/errata/RHBA-2023:1773)\
+            - RHACS 3.74.2 released on 2023-04-13 [https://access.redhat.com/errata/RHBA-2023:1773](https://access.redhat.com/errata/RHBA-2023:1773)
             - RHACS 3.74.3 released on 2023-05-02 [https://access.redhat.com/errata/RHBA-2023:2082](https://access.redhat.com/errata/RHBA-2023:2082)
+            - RHACS 3.74.4 released on 2023-06-05 [https://access.redhat.com/errata/RHSA-2023:3435](https://access.redhat.com/errata/RHSA-2023:3435)
         - RHACS 4.0 released on 2023-05-03
             - ACS 4.0 enhancement update released on 2023-05-03 [https://access.redhat.com/errata/RHEA-2023:2102](https://access.redhat.com/errata/RHEA-2023:2102)
             - ACS 4.0 enhancement update released on 2023-05-18 [https://access.redhat.com/errata/RHBA-2023:3236](https://access.redhat.com/errata/RHBA-2023:3236)

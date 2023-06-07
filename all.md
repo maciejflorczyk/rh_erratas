@@ -127,8 +127,9 @@
             - Bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:3290](https://access.redhat.com/errata/RHBA-2023:3290)
             - Packages update [https://access.redhat.com/errata/RHBA-2023:3286](https://access.redhat.com/errata/RHBA-2023:3286)
             - extras update [https://access.redhat.com/errata/RHBA-2023:3288](https://access.redhat.com/errata/RHBA-2023:3288)
-    
-    
+        - RHOCP 4.12.20 released on 2023-06-07
+            - extras update [https://access.redhat.com/errata/RHBA-2023:3411](https://access.redhat.com/errata/RHBA-2023:3411)
+            - CNF vRAN extras update [https://access.redhat.com/errata/RHEA-2023:3477](https://access.redhat.com/errata/RHEA-2023:3477)
     
     - **RHOCP 4.11.z**
         - RHOCP 4.11.20 released on 2022-12-16
@@ -335,8 +336,13 @@
             - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3219](https://access.redhat.com/errata/RHBA-2023:3219)
             - Low: OpenShift Container Platform 4.10.60 packages and security update [https://access.redhat.com/errata/RHSA-2023:3216](https://access.redhat.com/errata/RHSA-2023:3216)
             - bug fix update [https://access.redhat.com/errata/RHBA-2023:3217](https://access.redhat.com/errata/RHBA-2023:3217)
-    
-
+        - RHOCP 4.10.61 released on 2023-06-07
+            - Security update:
+                - Important [https://access.redhat.com/errata/RHSA-2023:3362](https://access.redhat.com/errata/RHSA-2023:3362)
+                - Moderate [https://access.redhat.com/errata/RHSA-2023:3363](https://access.redhat.com/errata/RHSA-2023:3363)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3365](https://access.redhat.com/errata/RHBA-2023:3365)
+            - security and extras update [https://access.redhat.com/errata/RHBA-2023:3364](https://access.redhat.com/errata/RHBA-2023:3364)
+            - CNF vRAN extras update [https://access.redhat.com/errata/RHEA-2023:3476](https://access.redhat.com/errata/RHEA-2023:3476)
 
     - **RHOCP 4.9.z (EOL)**
         - RHOCP 4.9.52 released on 2022-11-23

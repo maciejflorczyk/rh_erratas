@@ -1,4 +1,24 @@
 - Product Lifecycle Updates
+    - **RHOCP 4.13.z**
+        - RHOCP 4.13 released on 2023-05-18
+            - Security update
+                - Important [https://access.redhat.com/errata/RHSA-2023:1325](https://access.redhat.com/errata/RHSA-2023:1325)
+                - Moderate [https://access.redhat.com/errata/RHSA-2023:1328](https://access.redhat.com/errata/RHSA-2023:1328)
+                - Moderate [https://access.redhat.com/errata/RHSA-2023:1329](https://access.redhat.com/errata/RHSA-2023:1329)
+                - Moderate / CNF vRAN extras security [https://access.redhat.com/errata/RHSA-2023:2138](https://access.redhat.com/errata/RHSA-2023:2138)
+        - RHOCP 4.13.1 released on 2023-05-30
+            - Security update
+                - Moderate / packages and security update [https://access.redhat.com/errata/RHSA-2023:3303](https://access.redhat.com/errata/RHSA-2023:3303)
+                - Moderate / bug fix and security update [https://access.redhat.com/errata/RHSA-2023:3304](https://access.redhat.com/errata/RHSA-2023:3304)
+                - Moderate / security and extras update [https://access.redhat.com/errata/RHSA-2023:3305](https://access.redhat.com/errata/RHSA-2023:3305)
+            - Bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:3307](https://access.redhat.com/errata/RHBA-2023:3307)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3306](https://access.redhat.com/errata/RHBA-2023:3306)
+        - RHOCP 4.13.2 released on 2023-06-07
+            - Security update
+                - Important / packages and security update [https://access.redhat.com/errata/RHSA-2023:3366](https://access.redhat.com/errata/RHSA-2023:3366)
+                - Important /  bug fix and security update [https://access.redhat.com/errata/RHSA-2023:3367](https://access.redhat.com/errata/RHSA-2023:3367)
+            - Security update [https://access.redhat.com/errata/RHBA-2023:3368](https://access.redhat.com/errata/RHBA-2023:3368)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3369](https://access.redhat.com/errata/RHBA-2023:3369)
     - **RHOCP 4.12.z**
         - RHOCP 4.12 released on 2023-01-17
             - security update

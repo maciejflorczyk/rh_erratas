@@ -128,9 +128,13 @@
             - Packages update [https://access.redhat.com/errata/RHBA-2023:3286](https://access.redhat.com/errata/RHBA-2023:3286)
             - extras update [https://access.redhat.com/errata/RHBA-2023:3288](https://access.redhat.com/errata/RHBA-2023:3288)
         - RHOCP 4.12.20 released on 2023-06-07
-            - extras update [https://access.redhat.com/errata/RHBA-2023:3411](https://access.redhat.com/errata/RHBA-2023:3411)
+            - Extras update [https://access.redhat.com/errata/RHBA-2023:3411](https://access.redhat.com/errata/RHBA-2023:3411)
             - CNF vRAN extras update [https://access.redhat.com/errata/RHEA-2023:3477](https://access.redhat.com/errata/RHEA-2023:3477)
-    
+                - Security update
+                    - Important [https://access.redhat.com/errata/RHSA-2023:3409](https://access.redhat.com/errata/RHSA-2023:3409)
+                    - Important [https://access.redhat.com/errata/RHSA-2023:3410](https://access.redhat.com/errata/RHSA-2023:3410)
+            - Metadata update [https://access.redhat.com/errata/RHBA-2023:3412](https://access.redhat.com/errata/RHBA-2023:3412)
+
     - **RHOCP 4.11.z**
         - RHOCP 4.11.20 released on 2022-12-16
             - security update

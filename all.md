@@ -28,6 +28,15 @@
                     - bug fix and security update [https://access.redhat.com/errata/RHSA-2023:3540](https://access.redhat.com/errata/RHSA-2023:3540)
             - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3539](https://access.redhat.com/errata/RHBA-2023:3539)
             - security and extras update [https://access.redhat.com/errata/RHBA-2023:3538](https://access.redhat.com/errata/RHBA-2023:3538)
+        - RHOCP 4.13.4 released on 2023-06-23
+            - Security update
+                - Important
+                    - packages and security update [https://access.redhat.com/errata/RHSA-2023:3612](https://access.redhat.com/errata/RHSA-2023:3612)
+                - Moderate
+                    - bug fix and security update [https://access.redhat.com/errata/RHSA-2023:3614](https://access.redhat.com/errata/RHSA-2023:3614)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3618](https://access.redhat.com/errata/RHBA-2023:3618)
+            - bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:3620](https://access.redhat.com/errata/RHBA-2023:3620)
+            - security and extras update [https://access.redhat.com/errata/RHBA-2023:3616](https://access.redhat.com/errata/RHBA-2023:3616)
     - **RHOCP 4.12.z**
         - RHOCP 4.12 released on 2023-01-17
             - security update
@@ -170,7 +179,13 @@
             - Bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:3549](https://access.redhat.com/errata/RHBA-2023:3549)
             - Bug fix update [https://access.redhat.com/errata/RHBA-2023:3546](https://access.redhat.com/errata/RHBA-2023:3546)
             - security and extras update [https://access.redhat.com/errata/RHBA-2023:3547](https://access.redhat.com/errata/RHBA-2023:3547)
-
+        - RHOCP 4.12.22 released on 2023-06-22
+            - Security update
+                - packages and security update [https://access.redhat.com/errata/RHSA-2023:3613](https://access.redhat.com/errata/RHSA-2023:3613)
+                - bug fix and security update [https://access.redhat.com/errata/RHSA-2023:3615](https://access.redhat.com/errata/RHSA-2023:3615)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3619](https://access.redhat.com/errata/RHBA-2023:3619)
+            - bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:3621](https://access.redhat.com/errata/RHBA-2023:3621)
+            - security and extras update [https://access.redhat.com/errata/RHBA-2023:3617](https://access.redhat.com/errata/RHBA-2023:3617)
     - **RHOCP 4.11.z**
         - RHOCP 4.11.20 released on 2022-12-16
             - security update
@@ -388,7 +403,12 @@
             - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3365](https://access.redhat.com/errata/RHBA-2023:3365)
             - security and extras update [https://access.redhat.com/errata/RHBA-2023:3364](https://access.redhat.com/errata/RHBA-2023:3364)
             - CNF vRAN extras update [https://access.redhat.com/errata/RHEA-2023:3476](https://access.redhat.com/errata/RHEA-2023:3476)
-
+        - RHOCP 4.10.62 released on 2023-06-23
+            - Security update
+                - Important [https://access.redhat.com/errata/RHSA-2023:3625](https://access.redhat.com/errata/RHSA-2023:3625)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3628](https://access.redhat.com/errata/RHBA-2023:3628)
+            - bug fix update [https://access.redhat.com/errata/RHBA-2023:3626](https://access.redhat.com/errata/RHBA-2023:3626)
+            - extras update [https://access.redhat.com/errata/RHBA-2023:3627](https://access.redhat.com/errata/RHBA-2023:3627)
     - **RHOCP 4.9.z (EOL)**
         - RHOCP 4.9.52 released on 2022-11-23
             - bug fix update [RHBA-2022:8485](https://access.redhat.com/errata/RHBA-2022:8485)
@@ -500,6 +520,7 @@
             - Quay 3.8.6 released on 2023-04-19 [https://access.redhat.com/errata/RHBA-2023:1874](https://access.redhat.com/errata/RHBA-2023:1874)
             - Quay 3.8.7 released on 2023-05-10 [https://access.redhat.com/errata/RHBA-2023:2087](https://access.redhat.com/errata/RHBA-2023:2087)
             - Quay 3.8.8 released on 2023-05-23 [https://access.redhat.com/errata/RHBA-2023:3181](https://access.redhat.com/errata/RHBA-2023:3181)
+            - Quay 3.8.9 released on 2023-06-20 [https://access.redhat.com/errata/RHBA-2023:3681](https://access.redhat.com/errata/RHBA-2023:3681)
     - **RHACM**
         - RHACM 2.3
             - RHACM 2.3.10 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1715)
@@ -553,6 +574,8 @@
                 - Critical: Red Hat Advanced Cluster Management 2.7.3 security fixes and bug fixes [https://access.redhat.com/errata/RHSA-2023:1888](https://access.redhat.com/errata/RHSA-2023:1888)
             - RHACM 2.7.4 released on 2023-05-24
                 - Critical: Red Hat Advanced Cluster Management 2.7.4 security fixes and container updates [https://access.redhat.com/errata/RHSA-2023:3297](https://access.redhat.com/errata/RHSA-2023:3297)
+            - RHACM 2.7.5 released on 2023-06-20
+                - bug fixes and container updates [https://access.redhat.com/errata/RHBA-2023:3778](https://access.redhat.com/errata/RHBA-2023:3778)
         - RHACM 2.8 released on 2023-06-14
             - RHACM 2.8.0 released on 2023-06-14 / bugfix update [https://access.redhat.com/errata/RHBA-2023:3599](https://access.redhat.com/errata/RHBA-2023:3599)
     - **RHACS**

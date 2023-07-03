@@ -574,7 +574,7 @@
                 - Critical: Red Hat Advanced Cluster Management 2.7.3 security fixes and bug fixes [https://access.redhat.com/errata/RHSA-2023:1888](https://access.redhat.com/errata/RHSA-2023:1888)
             - RHACM 2.7.4 released on 2023-05-24
                 - Critical: Red Hat Advanced Cluster Management 2.7.4 security fixes and container updates [https://access.redhat.com/errata/RHSA-2023:3297](https://access.redhat.com/errata/RHSA-2023:3297)
-            - RHACM 2.7.5 released on 2023-06-20
+            - RHACM 2.7.5 released on 2023-06-22
                 - bug fixes and container updates [https://access.redhat.com/errata/RHBA-2023:3778](https://access.redhat.com/errata/RHBA-2023:3778)
         - RHACM 2.8 released on 2023-06-14
             - RHACM 2.8.0 released on 2023-06-14 / bugfix update [https://access.redhat.com/errata/RHBA-2023:3599](https://access.redhat.com/errata/RHBA-2023:3599)
@@ -607,3 +607,4 @@
             - ACS 4.0 enhancement update released on 2023-05-03 [https://access.redhat.com/errata/RHEA-2023:2102](https://access.redhat.com/errata/RHEA-2023:2102)
             - ACS 4.0 enhancement update released on 2023-05-18 [https://access.redhat.com/errata/RHBA-2023:3236](https://access.redhat.com/errata/RHBA-2023:3236)
             - Important: ACS 4.0 enhancement and security updatereleased on 2023-05-31 [https://access.redhat.com/errata/RHSA-2023:3415](https://access.redhat.com/errata/RHSA-2023:3415)
+            - ACS 4.1 enhancement and security (Moderate) update [https://access.redhat.com/errata/RHSA-2023:3943](https://access.redhat.com/errata/RHSA-2023:3943)

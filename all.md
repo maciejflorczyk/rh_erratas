@@ -37,6 +37,15 @@
             - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3618](https://access.redhat.com/errata/RHBA-2023:3618)
             - bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:3620](https://access.redhat.com/errata/RHBA-2023:3620)
             - security and extras update [https://access.redhat.com/errata/RHBA-2023:3616](https://access.redhat.com/errata/RHBA-2023:3616)
+        - RHOCP 4.13.5 released on 2023-07-20
+            - Security update
+                - Important
+                    - OpenShift Container Platform 4.13.5 security update [https://access.redhat.com/errata/RHSA-2023:4093](https://access.redhat.com/errata/RHSA-2023:4093)
+                - Moderate
+                    - OpenShift Container Platform 4.13.5 security update [https://access.redhat.com/errata/RHSA-2023:4091](https://access.redhat.com/errata/RHSA-2023:4091)
+                    - OpenShift Container Platform 4.13.5 security update [https://access.redhat.com/errata/RHSA-2023:4090](https://access.redhat.com/errata/RHSA-2023:4090)
+            - bug fix update [https://access.redhat.com/errata/RHBA-2023:4092](https://access.redhat.com/errata/RHBA-2023:4092)
+            - bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2023:4094](https://access.redhat.com/errata/RHBA-2023:4094)
     - **RHOCP 4.12.z**
         - RHOCP 4.12 released on 2023-01-17
             - security update
@@ -340,7 +349,12 @@
                     - Enterprise security update [https://access.redhat.com/errata/RHSA-2023:3914](https://access.redhat.com/errata/RHSA-2023:3914)
                     - bug fix and security update [https://access.redhat.com/errata/RHSA-2023:3915](https://access.redhat.com/errata/RHSA-2023:3915)
             - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:3917](https://access.redhat.com/errata/RHBA-2023:3917)
-
+        - RHOCP 4.11.45 released on 2023-07-19
+            - Security update:
+                - Important: bug fix and security update [https://access.redhat.com/errata/RHSA-2023:4053](https://access.redhat.com/errata/RHSA-2023:4053)
+            - OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2023:4055](https://access.redhat.com/errata/RHBA-2023:4055)
+            - packages and security update [https://access.redhat.com/errata/RHBA-2023:4052](https://access.redhat.com/errata/RHBA-2023:4052)
+            - security and extras update [https://access.redhat.com/errata/RHBA-2023:4054](https://access.redhat.com/errata/RHBA-2023:4054)
     - **RHOCP 4.10.z**
         - RHOCP 4.10.45 released on 2022-12-14
             - bug fix update [RHBA-2022:8882](https://access.redhat.com/errata/RHBA-2022:8882)

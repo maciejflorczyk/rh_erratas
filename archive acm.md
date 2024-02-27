@@ -1,0 +1,43 @@
+- **RHACM EOL**
+    - RHACM 2.3
+        - RHACM 2.3.10 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:1715)
+        - RHACM 2.3.11 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5392)
+        - RHACM 2.3.12 released on May 5th [Release Notes](https://access.redhat.com/errata/RHSA-2022:6271)
+    - RHACM 2.4 released on November 12th
+        - RHACM 2.4.7 released on September 28th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6747)
+        - RHACM 2.4.8 released on November 1st [Release Notes](https://access.redhat.com/errata/RHSA-2022:7276)
+        - RHACM 2.4.9 released on 2022-11-28 [RHBA-2022:8656](https://access.redhat.com/errata/RHBA-2022:8656)
+    - RHACM 2.5 released on June 8th 2022 [Release Notes](https://access.redhat.com/errata/RHSA-2022:4956)
+        - RHACM 2.5.3 released on October 13th
+            - Security update - Moderate:
+                - Red Hat Advanced Cluster Management 2.5.3 security fixes and bug fixes
+                    - [RHSA-2022:6954](https://access.redhat.com/errata/RHSA-2022:6954)
+        - RHACM 2.5.4 released on October 24th [Release Notes](https://access.redhat.com/errata/RHBA-2022:7093)
+        - RHACM 2.5.5 released on November 17th [RHBA-2022:8531](https://access.redhat.com/errata/RHBA-2022:8531)
+        - RHACM 2.5.6 released on 2023-01-18 [RHBA-2023:0262](https://access.redhat.com/errata/RHBA-2023:0262)
+        - RHACM 2.5.7 released on 2023-02-22 [RHBA-2023:0913](https://access.redhat.com/errata/RHBA-2023:0913)
+        - RHACM 2.5.8 released on 2023-05-03
+            - Moderate: Red Hat Advanced Cluster Management 2.5.8 security updates and bug fixes[https://access.redhat.com/errata/RHSA-2023:2104](https://access.redhat.com/errata/RHSA-2023:2104)
+        - RHACM 2.5.9 released on 2023-05-30
+            - Critical: Red Hat Advanced Cluster Management 2.5.9 security fixes and container updates [https://access.redhat.com/errata/RHSA-2023:3356](https://access.redhat.com/errata/RHSA-2023:3356)
+    - RHACM 2.6 released on September 8th
+        - RHACM 2.6.1 released on September 12th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5531)
+        - RHACM 2.6 bugfix advisory released on October 6th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6836)
+        - RHACM 2.6 RHEL8 container images update [Release Notes](https://access.redhat.com/errata/RHBA-2022:7193)
+        - RHACM 2.6.2 released on November 2nd
+            - Security update - Moderate:
+                - Red Hat Advanced Cluster Management 2.6.2 security fixes and bug fixes released on November 2nd
+                    - [RHSA-2022:7313](https://access.redhat.com/errata/RHSA-2022:7313)
+        - RHACM 2.6.3 released on 2022-12-14
+            - Security update - Important:
+                - Red Hat Advanced Cluster Management 2.6.3 security update released on 2022-12-14
+                    - [RHSA-2022:9040](https://access.redhat.com/errata/RHSA-2022:9040)
+        - RHACM 2.6.4 released on 2023-02-15
+            - Security update - Important:
+                - Red Hat Advanced Cluster Management 2.6.4 bug fixes and security updates released on 2023-02-15
+                    - [RHSA-2023:0794](https://access.redhat.com/errata/RHSA-2023:0794)
+        - RHACM 2.6.5 released on 2023-05-02 [https://access.redhat.com/errata/RHSA-2023:2083](https://access.redhat.com/errata/RHSA-2023:2083)
+        - RHACM 2.6.6 released on 2023-05-25 [https://access.redhat.com/errata/RHSA-2023:3326](https://access.redhat.com/errata/RHSA-2023:3326)
+        - Critical: Red Hat Advanced Cluster Management 2.6.7 security and bug fix updates [https://access.redhat.com/errata/RHSA-2023:4980](https://access.redhat.com/errata/RHSA-2023:4980)
+        - Important: Red Hat Advanced Cluster Management 2.6.8 security and bug fix updates	released on 2023-10-30 [https://access.redhat.com/errata/RHSA-2023:6202](https://access.redhat.com/errata/RHSA-2023:6202)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.6 for RHEL 8 container images released on 2023-10-30 [https://access.redhat.com/errata/RHBA-2023:6294](https://access.redhat.com/errata/RHBA-2023:6294)

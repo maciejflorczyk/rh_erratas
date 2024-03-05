@@ -393,3 +393,22 @@
         - extras update [RHBA-2023:0238](https://access.redhat.com/errata/RHBA-2023:0238)
         - packages update [RHBA-2023:0236](https://access.redhat.com/errata/RHBA-2023:0236)
     - **RHOCP 4.8 End of Life date: 2023-04-27**
+
+
+
+- **RHOCP 3.11.z**
+    - RHOCP 3.11.685 released on April 27th [Release Notes](https://access.redhat.com/errata/RHBA-2022:1421)
+        - Security update - Important:
+            - OpenShift Container Platform 3.11.685 security and bug fix update released on April 27th
+                - [RHSA-2022:1420](https://access.redhat.com/errata/RHSA-2022:1420)
+    - RHOCP 3.11.715 released on June 21st [Release Notes](https://access.redhat.com/errata/RHSA-2022:4999)
+    - RHOCP 3.11.784 released on September 7th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6251)
+        - Security update - Important:
+            - OpenShift Container Platform 3.11.784 security update on September 7th
+                - [RHSA-2022:1420](https://access.redhat.com/errata/RHSA-2022:1420)
+        - Updated Red Hat OpenShift Container Platform 3.11 container images
+            - released on 2022-10-12 [RHBA-2022:6918](https://access.redhat.com/errata/RHBA-2022:6918)
+            - released on 2022-11-08 [RHBA-2022:7818](https://access.redhat.com/errata/RHBA-2022:7818)
+        - Security update - Important:
+            - Red Hat Single Sign-On 7.6.2 for OpenShift image security and enhancement update on 2023-03-01
+                - [RHSA-2023:1047](https://access.redhat.com/errata/RHSA-2023:1047)

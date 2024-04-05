@@ -22,6 +22,19 @@
         - OpenShift Container Platform 4.15.3 packages and security update [https://access.redhat.com/errata/RHBA-2024:1258](https://access.redhat.com/errata/RHBA-2024:1258)
         - Moderate: OpenShift Container Platform 4.15.3 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1255](https://access.redhat.com/errata/RHSA-2024:1255)
         - OpenShift Container Platform 4.15.3 security and extras update [https://access.redhat.com/errata/RHBA-2024:1254](https://access.redhat.com/errata/RHBA-2024:1254)
+    - RHOCP 4.15.4 skipped
+    - RHOCP 4.15.5 released on 2024-03-27
+        - Red Hat build of MicroShift 4.15.5 bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2024:1451](https://access.redhat.com/errata/RHBA-2024:1451)
+        - OpenShift Container Platform 4.15.5 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1450](https://access.redhat.com/errata/RHBA-2024:1450)
+        - OpenShift Container Platform 4.15.5 packages and security update [https://access.redhat.com/errata/RHBA-2024:1452](https://access.redhat.com/errata/RHBA-2024:1452)
+        - Important: OpenShift Container Platform 4.15.5 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1449](https://access.redhat.com/errata/RHSA-2024:1449)
+        - OpenShift Container Platform 4.15.5 security and extras update [https://access.redhat.com/errata/RHBA-2024:1448](https://access.redhat.com/errata/RHBA-2024:1448)
+    - RHOCP 4.15.6 released on 2024-04-02
+        - Important: Red Hat build of MicroShift 4.15.6 security update [https://access.redhat.com/errata/RHSA-2024:1561](https://access.redhat.com/errata/RHSA-2024:1561)
+        - Important: OpenShift Container Platform 4.15.6 packages and security update [https://access.redhat.com/errata/RHSA-2024:1563](https://access.redhat.com/errata/RHSA-2024:1563)
+        - OpenShift Container Platform 4.15.6 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1560](https://access.redhat.com/errata/RHBA-2024:1560)
+        - Important: OpenShift Container Platform 4.15.6 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1559](https://access.redhat.com/errata/RHSA-2024:1559)
+        - OpenShift Container Platform 4.15.6 security and extras update [https://access.redhat.com/errata/RHBA-2024:1558](https://access.redhat.com/errata/RHBA-2024:1558)
 
 - **RHOCP 4.14.z**
     - **Red Hat OpenShift 4.14 is generally available (GA) on 2023-10-31**
@@ -116,12 +129,31 @@
         - OpenShift Container Platform 4.14.15 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1047](https://access.redhat.com/errata/RHBA-2024:1047)
         - OpenShift Container Platform 4.14.15 bug fix update [https://access.redhat.com/errata/RHBA-2024:1046](https://access.redhat.com/errata/RHBA-2024:1046)
         - OpenShift Container Platform 4.14.15 security and extras update [https://access.redhat.com/errata/RHBA-2024:1045](https://access.redhat.com/errata/RHBA-2024:1045)
-    - RHOCP 4.14.15 released on 2024-03-13
+    - RHOCP 4.14.16 released on 2024-03-13
         - Red Hat build of MicroShift 4.14.16 bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2024:1207](https://access.redhat.com/errata/RHBA-2024:1207)
         - OpenShift Container Platform 4.14.16 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1206](https://access.redhat.com/errata/RHBA-2024:1206)
         - OpenShift Container Platform 4.14.16 packages update [https://access.redhat.com/errata/RHBA-2024:1208](https://access.redhat.com/errata/RHBA-2024:1208)
         - OpenShift Container Platform 4.14.16 bug fix update [https://access.redhat.com/errata/RHBA-2024:1205](https://access.redhat.com/errata/RHBA-2024:1205)
         - OpenShift Container Platform 4.14.16 extras update [https://access.redhat.com/errata/RHBA-2024:1204](https://access.redhat.com/errata/RHBA-2024:1204)
+    - RHOCP 4.14.17 released on 2024-03-20
+        - Red Hat build of MicroShift 4.14.17 bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2024:1262](https://access.redhat.com/errata/RHBA-2024:1262)
+        - Moderate: OpenShift Container Platform 4.14.17 low-latency extras security update [https://access.redhat.com/errata/RHSA-2024:1362](https://access.redhat.com/errata/RHSA-2024:1362)
+        - OpenShift Container Platform 4.14.17 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1261](https://access.redhat.com/errata/RHBA-2024:1261)
+        - OpenShift Container Platform 4.14.17 packages and security update [https://access.redhat.com/errata/RHBA-2024:1263](https://access.redhat.com/errata/RHBA-2024:1263)
+        - OpenShift Container Platform 4.14.17 bug fix update [https://access.redhat.com/errata/RHBA-2024:1260](https://access.redhat.com/errata/RHBA-2024:1260)
+        - OpenShift Container Platform 4.14.17 security and extras update [https://access.redhat.com/errata/RHBA-2024:1259](https://access.redhat.com/errata/RHBA-2024:1259)
+    - RHOCP 4.14.18 released on 2024-03-27
+        - Red Hat build of MicroShift 4.14.z bug fix and enhancement update [https://access.redhat.com/errata/RHBA-2024:1460](https://access.redhat.com/errata/RHBA-2024:1460)
+        - Moderate: OpenShift Container Platform 4.14.18 packages and security update [https://access.redhat.com/errata/RHSA-2024:1461](https://access.redhat.com/errata/RHSA-2024:1461)
+        - Important: OpenShift Container Platform 4.14.18 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1458](https://access.redhat.com/errata/RHSA-2024:1458)
+        - OpenShift Container Platform 4.14.18 security and extras update [https://access.redhat.com/errata/RHBA-2024:1457](https://access.redhat.com/errata/RHBA-2024:1457)
+    - RHOCP 4.14.19 released on 2024-04-03
+        - OpenShift Container Platform 4.14.19 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1565](https://access.redhat.com/errata/RHBA-2024:1565)
+        - Important: Red Hat build of MicroShift 4.14.19 security update [https://access.redhat.com/errata/RHSA-2024:1566](https://access.redhat.com/errata/RHSA-2024:1566)
+        - Important: OpenShift Container Platform 4.14.19 security update [https://access.redhat.com/errata/RHSA-2024:1567](https://access.redhat.com/errata/RHSA-2024:1567)
+        - OpenShift Container Platform 4.14.19 bug fix update [https://access.redhat.com/errata/RHBA-2024:1564](https://access.redhat.com/errata/RHBA-2024:1564)
+        - OpenShift Container Platform 4.14.19 extras update [https://access.redhat.com/errata/RHBA-2024:1562](https://access.redhat.com/errata/RHBA-2024:1562)
+
 - **RHOCP 4.13.z**
     - RHOCP 4.13 released on 2023-05-18
         - Security update
@@ -327,7 +359,12 @@
         - OpenShift Container Platform 4.13.37 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1201](https://access.redhat.com/errata/RHBA-2024:1201)
         - OpenShift Container Platform 4.13.37 bug fix update [https://access.redhat.com/errata/RHBA-2024:1200](https://access.redhat.com/errata/RHBA-2024:1200)
         - OpenShift Container Platform 4.13.37 extras update [https://access.redhat.com/errata/RHBA-2024:1199](https://access.redhat.com/errata/RHBA-2024:1199)
-
+    - RHOCP 4.13.38 released on 2024-03-27
+        - Moderate: OpenShift Container Platform 4.13.38 low-latency extras security update [https://access.redhat.com/errata/RHSA-2024:1537](https://access.redhat.com/errata/RHSA-2024:1537)
+        - OpenShift Container Platform 4.13.38 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1455](https://access.redhat.com/errata/RHBA-2024:1455)
+        - Moderate: OpenShift Container Platform 4.13.38 packages and security update [https://access.redhat.com/errata/RHSA-2024:1456](https://access.redhat.com/errata/RHSA-2024:1456)
+        - Important: OpenShift Container Platform 4.13.38 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1454](https://access.redhat.com/errata/RHSA-2024:1454)
+        - OpenShift Container Platform 4.13.38 security and extras update [https://access.redhat.com/errata/RHBA-2024:1453](https://access.redhat.com/errata/RHBA-2024:1453)
 - **RHOCP 4.12.z**
     - RHOCP 4.12 released on 2023-01-17
         - security update
@@ -633,9 +670,13 @@
         - Important: OpenShift Container Platform 4.12.53 packages and security update [https://access.redhat.com/errata/RHSA-2024:1267](https://access.redhat.com/errata/RHSA-2024:1267)
         - Moderate: OpenShift Container Platform 4.12.53 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1265](https://access.redhat.com/errata/RHSA-2024:1265)
         - OpenShift Container Platform 4.12.53 extras update [https://access.redhat.com/errata/RHBA-2024:1264](https://access.redhat.com/errata/RHBA-2024:1264)
-
+    - RHOCP 4.12.54 released on 2024-04-03
+        - OpenShift Container Platform 4.12.54 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1573](https://access.redhat.com/errata/RHBA-2024:1573)
+        - Important: OpenShift Container Platform 4.12.54 packages and security update [https://access.redhat.com/errata/RHSA-2024:1574](https://access.redhat.com/errata/RHSA-2024:1574)
+        - Important: OpenShift Container Platform 4.12.54 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1572](https://access.redhat.com/errata/RHSA-2024:1572)
+        - OpenShift Container Platform 4.12.54 security and extras update [https://access.redhat.com/errata/RHBA-2024:1571](https://access.redhat.com/errata/RHBA-2024:1571)
 - **Quay**
-    - Quay 3.9.x
+    - Quay 3.9.x (Maintenance support)
         - Quay v3.9.0 released on 2023-08-14 [https://access.redhat.com/errata/RHBA-2023:3256](https://access.redhat.com/errata/RHBA-2023:3256)
         - Quay v3.9.1 released on 2023-09-05 [https://access.redhat.com/errata/RHBA-2023:4974](https://access.redhat.com/errata/RHBA-2023:4974)
         - Quay v3.9.2 released on 2023-09-26 [https://access.redhat.com/errata/RHBA-2023:5345](https://access.redhat.com/errata/RHBA-2023:5345)
@@ -643,13 +684,16 @@
         - Quay v3.9.4 released on 2023-11-02 [https://access.redhat.com/errata/RHBA-2023:6124](https://access.redhat.com/errata/RHBA-2023:6124)
         - Quay v3.9.5 released on 2023-11-15 [https://access.redhat.com/errata/RHBA-2023:6852](https://access.redhat.com/errata/RHBA-2023:6852)
         - Quay v3.9.6 releasedon 2024-01-16 [https://access.redhat.com/errata/RHBA-2024:0103](https://access.redhat.com/errata/RHBA-2024:0103)
-    - Quay 3.10.x released on 2023-11-30 [https://access.redhat.com/errata/RHBA-2023:7575](https://access.redhat.com/errata/RHBA-2023:7575)
+    - Quay 3.10.x (Full support)
+        - rQuay 3.10.0 eleased on 2023-11-30 [https://access.redhat.com/errata/RHBA-2023:7575](https://access.redhat.com/errata/RHBA-2023:7575)
         - Important: Red Hat Quay security update released on 2023-11-30 [https://access.redhat.com/errata/RHSA-2023:7341](https://access.redhat.com/errata/RHSA-2023:7341)
         - Red Hat Quay update released on 2023-11-30 [https://access.redhat.com/errata/RHBA-2023:7575](https://access.redhat.com/errata/RHBA-2023:7575)
         - Red Hat Quay v3.10.1 minor released on 2023-12-13 [https://access.redhat.com/errata/RHBA-2023:7819](https://access.redhat.com/errata/RHBA-2023:7819)
         - Red Hat Quay v3.10.2 minor release on 2024-01-16 [https://access.redhat.com/errata/RHBA-2024:0102](https://access.redhat.com/errata/RHBA-2024:0102)
         - Red Hat Quay v3.10.3 minor release on 2024-01-31 [https://access.redhat.com/errata/RHBA-2024:0382](https://access.redhat.com/errata/RHBA-2024:0382)
         - Red Hat Quay v3.10.4 minor release on 2024-02-27 [https://access.redhat.com/errata/RHBA-2024:0767](https://access.redhat.com/errata/RHBA-2024:0767)
+    - Quay 3.11.x (Full support)
+        - Red Hat Quay v3.11.0 minor release released on 2024-04-02 [https://access.redhat.com/errata/RHBA-2024:1475](https://access.redhat.com/errata/RHBA-2024:1475)
 
 - **RHACM**
     - RHACM 2.7 released on 2023-02-07
@@ -693,6 +737,7 @@
         - updated Red Hat Advanced Cluster Management for Kubernetes 2.6 for RHEL 8 container images [https://access.redhat.com/errata/RHBA-2023:7654](https://access.redhat.com/errata/RHBA-2023:7654)
         - updated Red Hat Advanced Cluster Management for Kubernetes 2.8 for RHEL 8 container images [https://access.redhat.com/errata/RHBA-2023:7659](https://access.redhat.com/errata/RHBA-2023:7659)
         - Critical: Red Hat Advanced Cluster Management 2.8.5 security and bug fix container updates released on 2024-02-14 [https://access.redhat.com/errata/RHSA-2024:0820](https://access.redhat.com/errata/RHSA-2024:0820)
+        - Moderate: Red Hat Advanced Cluster Management 2.8.6 security and bug fix updates released on 2024-02-14 [https://access.redhat.com/errata/RHSA-2024:1665](https://access.redhat.com/errata/RHSA-2024:1665)
     - RHACM 2.9 released on 2023-11-20
         - Red Hat Advanced Cluster Management 2.9.0 bug fixes and enhancements released on 2023-11-20 [https://access.redhat.com/errata/RHEA-2023:7358](https://access.redhat.com/errata/RHEA-2023:7358)
         - Red Hat Advanced Cluster Management 2.9.1 bug fixes and container updates	released on 2023-12-13 [https://access.redhat.com/errata/RHBA-2023:7817](https://access.redhat.com/errata/RHBA-2023:7817)
@@ -700,7 +745,8 @@
         - RHEA: Submariner 0.16.3 - bug fix and enhancement update released on 2024-02-05 [https://access.redhat.com/errata/RHBA-2024:0686](https://access.redhat.com/errata/RHBA-2024:0686)
         - Critical: Red Hat Advanced Cluster Management 2.9.2 security and bug fix container updates released on 2024-01-18 [https://access.redhat.com/errata/RHSA-2024:0298](https://access.redhat.com/errata/RHSA-2024:0298)
         - Moderate: Red Hat Advanced Cluster Management 2.9.3 security and bug fix container updates released on 2024-03-14 [https://access.redhat.com/errata/RHSA-2024:1328](https://access.redhat.com/errata/RHSA-2024:1328)
-
+    - RHACM 2.10 released on 2024-03-20
+        - Red Hat Advanced Cluster Management 2.10.0 bug fixes and enhancements released on 2024-03-20 [https://access.redhat.com/errata/RHBA-2024:1445](https://access.redhat.com/errata/RHBA-2024:1445)
 - **RHACS**
     - RHACS 4 released on 2023-05-03
         - ACS 4.2
@@ -709,6 +755,7 @@
             - Important: ACS 4.2 enhancement and security update relesed on 2023-10-23 [https://access.redhat.com/errata/RHSA-2023:6048](https://access.redhat.com/errata/RHSA-2023:6048)
             - ACS 4.2 bug fix update released on 2023-11-27 [https://access.redhat.com/errata/RHBA-2023:7518](https://access.redhat.com/errata/RHBA-2023:7518)
             - Important: RHACS 4.2 security update released on 2024-01-22 [https://access.redhat.com/errata/RHSA-2024:0337](https://access.redhat.com/errata/RHSA-2024:0337)
+            - ACS 4.2 bug fix update released on 2024-03-14 [https://access.redhat.com/errata/RHBA-2024:1341](https://access.redhat.com/errata/RHBA-2024:1341)
         - ACS 4.3
             - ACS 4.3 enhancement update released on 2023-11-15 [https://access.redhat.com/errata/RHEA-2023:7235](https://access.redhat.com/errata/RHEA-2023:7235)
             - Moderate: RHACS 4.3 enhancement and security update released on 2023-12-11 [https://access.redhat.com/errata/RHSA-2023:7725](https://access.redhat.com/errata/RHSA-2023:7725)
@@ -716,3 +763,7 @@
             - ACS 4.3 bug fix update released on 2024-01-17 [https://access.redhat.com/errata/RHBA-2024:0275](https://access.redhat.com/errata/RHBA-2024:0275)
             - RHACS 4.3 bug fix update released on 2024-01-22 [https://access.redhat.com/errata/RHBA-2024:0316](https://access.redhat.com/errata/RHBA-2024:0316)
             - Moderate: ACS 4.3 enhancement and security update	released on 2024-03-13 [https://access.redhat.com/errata/RHSA-2024:1321](https://access.redhat.com/errata/RHSA-2024:1321)
+            - Critical: ACS 4.3 enhancement and security update	released on 2024-03-27 [https://access.redhat.com/errata/RHSA-2024:1549](https://access.redhat.com/errata/RHSA-2024:1549)
+        - ACS 4.4 GA on 2024-03-29
+            - Important: ACS 4.4 enhancement and security update released on 2024-03-28 [https://access.redhat.com/errata/RHSA-2024:1570](https://access.redhat.com/errata/RHSA-2024:1570)
+

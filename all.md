@@ -35,10 +35,11 @@
         - OpenShift Container Platform 4.15.6 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1560](https://access.redhat.com/errata/RHBA-2024:1560)
         - Important: OpenShift Container Platform 4.15.6 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1559](https://access.redhat.com/errata/RHSA-2024:1559)
         - OpenShift Container Platform 4.15.6 security and extras update [https://access.redhat.com/errata/RHBA-2024:1558](https://access.redhat.com/errata/RHBA-2024:1558)
-    - RHOCP 4.15.7 released on 2024-04-08
+    - RHOCP 4.15.7 skipped
+    - RHOCP 4.15.8 released on 2024-04-08
         - Red Hat build of MicroShift 4.15.8 bug fix and enhancement update	[https://access.redhat.com/errata/RHBA-2024:1670](https://access.redhat.com/errata/RHBA-2024:1670)
         - Important: OpenShift Container Platform 4.15.8 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1668](https://access.redhat.com/errata/RHSA-2024:1668)
-    - RHOCP 4.15.8 released on 2024-04-16
+    - RHOCP 4.15.9 released on 2024-04-16
         - OpenShift Container Platform 4.15.9 IBU extras update	[https://access.redhat.com/errata/RHEA-2024:1884](https://access.redhat.com/errata/RHEA-2024:1884)
         - OpenShift Container Platform 4.15.9 low-latency extras update [https://access.redhat.com/errata/RHEA-2024:1799](https://access.redhat.com/errata/RHEA-2024:1799)
         - OpenShift Container Platform 4.15.9 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1771](https://access.redhat.com/errata/RHBA-2024:1771)
@@ -46,11 +47,17 @@
         - OpenShift Container Platform 4.15.9 packages update [https://access.redhat.com/errata/RHBA-2024:1773](https://access.redhat.com/errata/RHBA-2024:1773)
         - Important: OpenShift Container Platform 4.15.9 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1770](https://access.redhat.com/errata/RHSA-2024:1770)
         - OpenShift Container Platform 4.15.9 extras update	[https://access.redhat.com/errata/RHBA-2024:1769](https://access.redhat.com/errata/RHBA-2024:1769)
-    - RHOCP 4.15.9 released on 2024-04-25
+    - RHOCP 4.15.10 released on 2024-04-25
         - OpenShift Container Platform 4.15.10 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1888](https://access.redhat.com/errata/RHBA-2024:1888)
         - Important: OpenShift Container Platform 4.15.10 packages and security update [https://access.redhat.com/errata/RHSA-2024:1892](https://access.redhat.com/errata/RHSA-2024:1892)
         - Important: OpenShift Container Platform 4.15.10 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1887](https://access.redhat.com/errata/RHSA-2024:1887)
         - OpenShift Container Platform 4.15.10 security and extras update [https://access.redhat.com/errata/RHBA-2024:1886](Ohttps://access.redhat.com/errata/RHBA-2024:1886)
+    - RHOCP 4.15.11 released on 2024-04-25
+        - OpenShift Container Platform 4.15.11 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:2069](https://access.redhat.com/errata/RHBA-2024:2069)
+        - Moderate: OpenShift Container Platform 4.15.11 packages and security update [https://access.redhat.com/errata/RHSA-2024:2071](https://access.redhat.com/errata/RHSA-2024:2071)
+        - Important: OpenShift Container Platform 4.15.11 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:2068](https://access.redhat.com/errata/RHSA-2024:2068)
+        - OpenShift Container Platform 4.15.11 security and extras update [https://access.redhat.com/errata/RHBA-2024:2067](https://access.redhat.com/errata/RHBA-2024:2067)
+    - **Red Hat OpenShift 4.15 Maintenance support ends on 2025-08-27**
 
 - **RHOCP 4.14.z**
     - **Red Hat OpenShift 4.14 is generally available (GA) on 2023-10-31**
@@ -179,11 +186,20 @@
         - OpenShift Container Platform 4.14.21 packages and security update [https://access.redhat.com/errata/RHBA-2024:1768](https://access.redhat.com/errata/RHBA-2024:1768)
         - Important: OpenShift Container Platform 4.14.21 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1765](https://access.redhat.com/errata/RHSA-2024:1765)
         - OpenShift Container Platform 4.14.21 security and extras update [https://access.redhat.com/errata/RHBA-2024:1764](https://access.redhat.com/errata/RHBA-2024:1764)
-    - RHOCP 4.14.21 released on 2024-04-22
+    - RHOCP 4.14.22 released on 2024-04-26
+        - Important: OpenShift Container Platform 4.14.22 packages and security update [https://access.redhat.com/errata/RHSA-2024:1897](https://access.redhat.com/errata/RHSA-2024:1897)
+        - OpenShift Container Platform 4.14.22 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1894](https://access.redhat.com/errata/RHBA-2024:1894)
         - Important: OpenShift Container Platform 4.14.22 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:1891](https://access.redhat.com/errata/RHSA-2024:1891)
         - OpenShift Container Platform 4.14.22 security and extras update [https://access.redhat.com/errata/RHBA-2024:1889](https://access.redhat.com/errata/RHBA-2024:1889)
+    - RHOCP 4.14.23 released on 2024-05-02
+        - Moderate: OpenShift Container Platform 4.14.23 security update [https://access.redhat.com/errata/RHSA-2024:2054](https://access.redhat.com/errata/RHSA-2024:2054)
+        - OpenShift Container Platform 4.14.23 bug fix update [https://access.redhat.com/errata/RHBA-2024:2051](https://access.redhat.com/errata/RHBA-2024:2051)
+        - OpenShift Container Platform 4.14.23 extras update [https://access.redhat.com/errata/RHBA-2024:2050](https://access.redhat.com/errata/RHBA-2024:2050)
+    - **Red Hat OpenShift 4.14 Maintenance support ends on 2025-05-01**
+    - **Red Hat OpenShift 4.14 Extended update support ends on 2025-10-31**
 
 - **RHOCP 4.13.z**
+    - **Red Hat OpenShift 4.13 is generally available (GA) on 2023-05-17**
     - RHOCP 4.13 released on 2023-05-18
         - Security update
             - Important [https://access.redhat.com/errata/RHSA-2023:1325](https://access.redhat.com/errata/RHSA-2023:1325)
@@ -401,9 +417,16 @@
         - OpenShift Container Platform 4.13.40 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:1762](https://access.redhat.com/errata/RHBA-2024:1762)
         - OpenShift Container Platform 4.13.40 bug fix update [https://access.redhat.com/errata/RHBA-2024:1761](https://access.redhat.com/errata/RHBA-2024:1761)
         - OpenShift Container Platform 4.13.40 security and extras update [https://access.redhat.com/errata/RHBA-2024:1760](https://access.redhat.com/errata/RHBA-2024:1760)
-
+    - RHOCP 4.13.41 released on 2024-05-02
+        - OpenShift Container Platform 4.13.41 low-latency extras update [https://access.redhat.com/errata/RHBA-2024:2682](https://access.redhat.com/errata/RHBA-2024:2682)
+        - OpenShift Container Platform 4.13.41 OLM Operators metadata update [https://access.redhat.com/errata/RHBA-2024:2048](https://access.redhat.com/errata/RHBA-2024:2048)
+        - Important: OpenShift Container Platform 4.13.41 packages and security update [https://access.redhat.com/errata/RHSA-2024:2049](https://access.redhat.com/errata/RHSA-2024:2049)
+        - Important: OpenShift Container Platform 4.13.41 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:2047](https://access.redhat.com/errata/RHSA-2024:2047)
+        - OpenShift Container Platform 4.13.41 security and extras update [https://access.redhat.com/errata/RHBA-2024:2046](https://access.redhat.com/errata/RHBA-2024:2046)
+    - **Red Hat OpenShift 4.13 Maintenance support ends on 2024-11-17**
 
 - **RHOCP 4.12.z**
+    - **Red Hat OpenShift 4.12 is generally available (GA) on 2023-01-17**
     - RHOCP 4.12 released on 2023-01-17
         - security update
             - moderate [RHSA-2022:7401](https://access.redhat.com/errata/RHSA-2022:7401)
@@ -721,8 +744,8 @@
         - Important: OpenShift Container Platform 4.12.56 security update [https://access.redhat.com/errata/RHSA-2024:1899](https://access.redhat.com/errata/RHSA-2024:1899)
         - Important: OpenShift Container Platform 4.12.56 security update [https://access.redhat.com/errata/RHSA-2024:1896](https://access.redhat.com/errata/RHSA-2024:1896)
         - OpenShift Container Platform 4.12.56 extras update [https://access.redhat.com/errata/RHBA-2024:1893](https://access.redhat.com/errata/RHBA-2024:1893)
-
-
+    - **Red Hat OpenShift 4.12 Maintenance support ends on 2024-07-17**
+    - **Red Hat OpenShift 4.12 Extended update support ends on 2025-01-17**
 
 
 

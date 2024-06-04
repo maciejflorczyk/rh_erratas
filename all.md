@@ -75,6 +75,13 @@
         - [https://access.redhat.com/errata/RHBA-2024:2870](https://access.redhat.com/errata/RHBA-2024:2870)
         - [https://access.redhat.com/errata/RHSA-2024:2865](https://access.redhat.com/errata/RHSA-2024:2865)
         - [https://access.redhat.com/errata/RHBA-2024:2864](https://access.redhat.com/errata/RHBA-2024:2864)
+    - RHOCP 4.15.15 released on 2024-05-29 - [link](https://access.redhat.com/errata-search/?q=4.15.15&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3328](https://access.redhat.com/errata/RHBA-2024:3328)
+        - [https://access.redhat.com/errata/RHBA-2024:3330](https://access.redhat.com/errata/RHBA-2024:3330)
+        - [https://access.redhat.com/errata/RHBA-2024:3332](https://access.redhat.com/errata/RHBA-2024:3332)
+        - [https://access.redhat.com/errata/RHSA-2024:3327](https://access.redhat.com/errata/RHSA-2024:3327)
+        - [https://access.redhat.com/errata/RHBA-2024:3326](https://access.redhat.com/errata/RHBA-2024:3326)
+
 
     - **Red Hat OpenShift 4.15 Maintenance support ends on 2025-08-27**
 
@@ -233,6 +240,13 @@
         - [https://access.redhat.com/errata/RHBA-2024:2873](https://access.redhat.com/errata/RHBA-2024:2873)
         - [https://access.redhat.com/errata/RHSA-2024:2869](https://access.redhat.com/errata/RHSA-2024:2869)
         - [https://access.redhat.com/errata/RHBA-2024:2867](https://access.redhat.com/errata/RHBA-2024:2867)
+    - RHOCP 4.14.27 released on 2024-05-30 - [link](https://access.redhat.com/errata-search/?q=4.14.27&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHEA-2024:3504](https://access.redhat.com/errata/RHEA-2024:3504)
+        - [https://access.redhat.com/errata/RHBA-2024:3333](https://access.redhat.com/errata/RHBA-2024:3333)
+        - [https://access.redhat.com/errata/RHBA-2024:3334](https://access.redhat.com/errata/RHBA-2024:3334)
+        - [https://access.redhat.com/errata/RHBA-2024:3335](https://access.redhat.com/errata/RHBA-2024:3335)
+        - [https://access.redhat.com/errata/RHSA-2024:3331](https://access.redhat.com/errata/RHSA-2024:3331)
+        - [https://access.redhat.com/errata/RHBA-2024:3329](https://access.redhat.com/errata/RHBA-2024:3329)
 
     - **Red Hat OpenShift 4.14 Extended update support ends on 2025-10-31**
 
@@ -466,7 +480,6 @@
         - [https://access.redhat.com/errata/RHSA-2024:2877](https://access.redhat.com/errata/RHSA-2024:2877)
         - [https://access.redhat.com/errata/RHSA-2024:2875](https://access.redhat.com/errata/RHSA-2024:2875)
         - [https://access.redhat.com/errata/RHSA-2024:2874](https://access.redhat.com/errata/RHSA-2024:2874)
-
     - **Red Hat OpenShift 4.13 Maintenance support ends on 2024-11-17**
 
 - **RHOCP 4.12.z**
@@ -793,6 +806,11 @@
         - https://access.redhat.com/errata/RHSA-2024:2784
         - https://access.redhat.com/errata/RHSA-2024:2782
         - https://access.redhat.com/errata/RHSA-2024:2781
+    - RHOCP 4.12.58 released on 2024-05-30 - [link](https://access.redhat.com/errata-search/?q=4.12.58&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3350](https://access.redhat.com/errata/RHBA-2024:3350)
+        - [https://access.redhat.com/errata/RHSA-2024:3351](https://access.redhat.com/errata/RHSA-2024:3351)
+        - [https://access.redhat.com/errata/RHSA-2024:3349](https://access.redhat.com/errata/RHSA-2024:3349)
+        - [https://access.redhat.com/errata/RHBA-2024:3348](https://access.redhat.com/errata/RHBA-2024:3348)
     - **Red Hat OpenShift 4.12 Maintenance support ends on 2024-07-17**
     - **Red Hat OpenShift 4.12 Extended update support ends on 2025-01-17**
 

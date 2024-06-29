@@ -81,6 +81,30 @@
         - [https://access.redhat.com/errata/RHBA-2024:3332](https://access.redhat.com/errata/RHBA-2024:3332)
         - [https://access.redhat.com/errata/RHSA-2024:3327](https://access.redhat.com/errata/RHSA-2024:3327)
         - [https://access.redhat.com/errata/RHBA-2024:3326](https://access.redhat.com/errata/RHBA-2024:3326)
+    - RHOCP 4.15.16 released on 2024-06-05 - [link](https://access.redhat.com/errata-search/?q=4.15.16&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3487](https://access.redhat.com/errata/RHBA-2024:3487)
+        - [https://access.redhat.com/errata/RHBA-2024:3488](https://access.redhat.com/errata/RHBA-2024:3488)
+        - [https://access.redhat.com/errata/RHBA-2024:3491](https://access.redhat.com/errata/RHBA-2024:3491)
+        - [https://access.redhat.com/errata/RHBA-2024:3489](https://access.redhat.com/errata/RHBA-2024:3489)
+        - [https://access.redhat.com/errata/RHBA-2024:3490](https://access.redhat.com/errata/RHBA-2024:3490)
+    - RHOCP 4.15.17 released on 2024-06-11 - [link](https://access.redhat.com/errata-search/?q=4.15.17&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3675](https://access.redhat.com/errata/RHBA-2024:3675)
+        - [https://access.redhat.com/errata/RHBA-2024:3674](https://access.redhat.com/errata/RHBA-2024:3674)
+        - [https://access.redhat.com/errata/RHSA-2024:3676](https://access.redhat.com/errata/RHSA-2024:3676)
+        - [https://access.redhat.com/errata/RHBA-2024:3673](https://access.redhat.com/errata/RHBA-2024:3673)
+        - [https://access.redhat.com/errata/RHBA-2024:3672](https://access.redhat.com/errata/RHBA-2024:3672)
+    - RHOCP 4.15.18 released on 2024-06-18 - [link](https://access.redhat.com/errata-search/?q=4.15.18&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3891](https://access.redhat.com/errata/RHBA-2024:3891)
+        - [https://access.redhat.com/errata/RHBA-2024:3892](https://access.redhat.com/errata/RHBA-2024:3892)
+        - [https://access.redhat.com/errata/RHBA-2024:3890](https://access.redhat.com/errata/RHBA-2024:3890)
+        - [https://access.redhat.com/errata/RHSA-2024:3889](https://access.redhat.com/errata/RHSA-2024:3889)
+        - [https://access.redhat.com/errata/RHBA-2024:3888](https://access.redhat.com/errata/RHBA-2024:3888)
+    - RHOCP 4.15.19 released on 2024-06-27 - [link](https://access.redhat.com/errata-search/?q=4.15.18&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:4042](https://access.redhat.com/errata/RHBA-2024:4042)
+        - [https://access.redhat.com/errata/RHBA-2024:4043](https://access.redhat.com/errata/RHBA-2024:4043)
+        - [https://access.redhat.com/errata/RHBA-2024:4044](https://access.redhat.com/errata/RHBA-2024:4044)
+        - [https://access.redhat.com/errata/RHSA-2024:4041](https://access.redhat.com/errata/RHSA-2024:4041)
+        - [https://access.redhat.com/errata/RHBA-2024:4040](https://access.redhat.com/errata/RHBA-2024:4040)
 
 
     - **Red Hat OpenShift 4.15 Maintenance support ends on 2025-08-27**
@@ -247,13 +271,39 @@
         - [https://access.redhat.com/errata/RHBA-2024:3335](https://access.redhat.com/errata/RHBA-2024:3335)
         - [https://access.redhat.com/errata/RHSA-2024:3331](https://access.redhat.com/errata/RHSA-2024:3331)
         - [https://access.redhat.com/errata/RHBA-2024:3329](https://access.redhat.com/errata/RHBA-2024:3329)
+    - RHOCP 4.14.28 released on 2024-06-10 - [link](https://access.redhat.com/errata-search/?q=4.14.28&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3522](https://access.redhat.com/errata/RHBA-2024:3522)
+        - [https://access.redhat.com/errata/RHSA-2024:3523](https://access.redhat.com/errata/RHSA-2024:3523)
+        - [https://access.redhat.com/errata/RHBA-2024:3526](https://access.redhat.com/errata/RHBA-2024:3526)
+        - [https://access.redhat.com/errata/RHBA-2024:3525](https://access.redhat.com/errata/RHBA-2024:3525)
+        - [https://access.redhat.com/errata/RHBA-2024:3525](https://access.redhat.com/errata/RHBA-2024:3525)
+        - [https://access.redhat.com/errata/RHBA-2024:3524](https://access.redhat.com/errata/RHBA-2024:3524)
+    - RHOCP 4.14.29 released on 2024-06-13 - [link](https://access.redhat.com/errata-search/?q=4.14.29&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3696](https://access.redhat.com/errata/RHBA-2024:3696)
+        - [https://access.redhat.com/errata/RHBA-2024:3697](https://access.redhat.com/errata/RHBA-2024:3697)
+        - [https://access.redhat.com/errata/RHSA-2024:3700](https://access.redhat.com/errata/RHSA-2024:3700)
+        - [https://access.redhat.com/errata/RHBA-2024:3698](https://access.redhat.com/errata/RHBA-2024:3698)
+        - [https://access.redhat.com/errata/RHBA-2024:3699](https://access.redhat.com/errata/RHBA-2024:3699)
+    - RHOCP 4.14.30 released on 2024-06-19 - [link](https://access.redhat.com/errata-search/?q=4.14.30&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3884](https://access.redhat.com/errata/RHBA-2024:3884)
+        - [https://access.redhat.com/errata/RHSA-2024:3918](https://access.redhat.com/errata/RHSA-2024:3918)
+        - [https://access.redhat.com/errata/RHBA-2024:3882](https://access.redhat.com/errata/RHBA-2024:3882)
+        - [https://access.redhat.com/errata/RHSA-2024:3881](https://access.redhat.com/errata/RHSA-2024:3881)
+        - [https://access.redhat.com/errata/RHBA-2024:3880](https://access.redhat.com/errata/RHBA-2024:3880)
+    - RHOCP 4.14.31 released on 2024-06-26 - [link](https://access.redhat.com/errata-search/?q=4.14.31&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:4012](https://access.redhat.com/errata/RHBA-2024:4012)
+        - [https://access.redhat.com/errata/RHBA-2024:4013](https://access.redhat.com/errata/RHBA-2024:4013)
+        - [https://access.redhat.com/errata/RHBA-2024:4011](https://access.redhat.com/errata/RHBA-2024:4011)
+        - [https://access.redhat.com/errata/RHSA-2024:4010](https://access.redhat.com/errata/RHSA-2024:4010)
+        - [https://access.redhat.com/errata/RHBA-2024:4009](https://access.redhat.com/errata/RHBA-2024:4009)
+
 
     - **Red Hat OpenShift 4.14 Extended update support ends on 2025-10-31**
 
 - **RHOCP 4.13.z**
     - **Red Hat OpenShift 4.13 is generally available (GA) on 2023-05-17**
     - RHOCP 4.13 released on 2023-05-18
-        - Security update   
+        - Security update
             - Important [https://access.redhat.com/errata/RHSA-2023:1325](https://access.redhat.com/errata/RHSA-2023:1325)
             - Moderate [https://access.redhat.com/errata/RHSA-2023:1328](https://access.redhat.com/errata/RHSA-2023:1328)
             - Moderate [https://access.redhat.com/errata/RHSA-2023:1329](https://access.redhat.com/errata/RHSA-2023:1329)
@@ -475,11 +525,25 @@
         - Important: OpenShift Container Platform 4.13.41 packages and security update [https://access.redhat.com/errata/RHSA-2024:2049](https://access.redhat.com/errata/RHSA-2024:2049)
         - Important: OpenShift Container Platform 4.13.41 bug fix and security update [https://access.redhat.com/errata/RHSA-2024:2047](https://access.redhat.com/errata/RHSA-2024:2047)
         - OpenShift Container Platform 4.13.41 security and extras update [https://access.redhat.com/errata/RHBA-2024:2046](https://access.redhat.com/errata/RHBA-2024:2046)
-    - RHOCP 4.13.42 released on 2024-05-23
+    - RHOCP 4.13.42 released on 2024-05-23 - [link](https://access.redhat.com/errata-search/?q=4.13.42&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
         - [https://access.redhat.com/errata/RHBA-2024:2876](https://access.redhat.com/errata/RHBA-2024:2876)
         - [https://access.redhat.com/errata/RHSA-2024:2877](https://access.redhat.com/errata/RHSA-2024:2877)
         - [https://access.redhat.com/errata/RHSA-2024:2875](https://access.redhat.com/errata/RHSA-2024:2875)
         - [https://access.redhat.com/errata/RHSA-2024:2874](https://access.redhat.com/errata/RHSA-2024:2874)
+    - RHOCP 4.13.43 released on 2024-06-05 - [link](https://access.redhat.com/errata-search/?q=4.13.43&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3495](https://access.redhat.com/errata/RHBA-2024:3495)
+        - [https://access.redhat.com/errata/RHSA-2024:3496](https://access.redhat.com/errata/RHSA-2024:3496)
+        - [https://access.redhat.com/errata/RHSA-2024:3494](https://access.redhat.com/errata/RHSA-2024:3494)
+        - [https://access.redhat.com/errata/RHBA-2024:3493](https://access.redhat.com/errata/RHBA-2024:3493)
+    - RHOCP 4.13.44 released on 2024-06-19 - [link](https://access.redhat.com/errata-search/?q=4.13.44&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3984](https://access.redhat.com/errata/RHBA-2024:3984)
+        - [https://access.redhat.com/errata/RHBA-2024:3887](https://access.redhat.com/errata/RHBA-2024:3887)
+        - [https://access.redhat.com/errata/RHBA-2024:3886](https://access.redhat.com/errata/RHBA-2024:3886)
+        - [https://access.redhat.com/errata/RHSA-2024:3885](https://access.redhat.com/errata/RHSA-2024:3885)
+        - [https://access.redhat.com/errata/RHBA-2024:3883](https://access.redhat.com/errata/RHBA-2024:3883)
+
+
+
     - **Red Hat OpenShift 4.13 Maintenance support ends on 2024-11-17**
 
 - **RHOCP 4.12.z**
@@ -811,13 +875,23 @@
         - [https://access.redhat.com/errata/RHSA-2024:3351](https://access.redhat.com/errata/RHSA-2024:3351)
         - [https://access.redhat.com/errata/RHSA-2024:3349](https://access.redhat.com/errata/RHSA-2024:3349)
         - [https://access.redhat.com/errata/RHBA-2024:3348](https://access.redhat.com/errata/RHBA-2024:3348)
+    - RHOCP 4.12.59 released on 2024-06-12 - [link](https://access.redhat.com/errata-search/?q=4.12.59&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3714](https://access.redhat.com/errata/RHBA-2024:3714)
+        - [https://access.redhat.com/errata/RHSA-2024:3715](https://access.redhat.com/errata/RHSA-2024:3715)
+        - [https://access.redhat.com/errata/RHSA-2024:3713](https://access.redhat.com/errata/RHSA-2024:3713)
+        - [https://access.redhat.com/errata/RHBA-2024:3712](https://access.redhat.com/errata/RHBA-2024:3712)
+    - RHOCP 4.12.60 released on 2024-06-27 - [link](https://access.redhat.com/errata-search/?q=4.12.60&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:4007](https://access.redhat.com/errata/RHBA-2024:4007)
+        - [https://access.redhat.com/errata/RHSA-2024:4008](https://access.redhat.com/errata/RHSA-2024:4008)
+        - [https://access.redhat.com/errata/RHBA-2024:4005](https://access.redhat.com/errata/RHBA-2024:4005)
+        - [https://access.redhat.com/errata/RHSA-2024:4006](https://access.redhat.com/errata/RHSA-2024:4006)
     - **Red Hat OpenShift 4.12 Maintenance support ends on 2024-07-17**
     - **Red Hat OpenShift 4.12 Extended update support ends on 2025-01-17**
 
 
 
 - **Quay**
-    - Quay 3.9.x (Maintenance support)
+    - **Quay 3.9.x (Maintenance support)**
         - Quay v3.9.0 released on 2023-08-14 [https://access.redhat.com/errata/RHBA-2023:3256](https://access.redhat.com/errata/RHBA-2023:3256)
         - Quay v3.9.1 released on 2023-09-05 [https://access.redhat.com/errata/RHBA-2023:4974](https://access.redhat.com/errata/RHBA-2023:4974)
         - Quay v3.9.2 released on 2023-09-26 [https://access.redhat.com/errata/RHBA-2023:5345](https://access.redhat.com/errata/RHBA-2023:5345)
@@ -826,7 +900,8 @@
         - Quay v3.9.5 released on 2023-11-15 [https://access.redhat.com/errata/RHBA-2023:6852](https://access.redhat.com/errata/RHBA-2023:6852)
         - Quay v3.9.6 released on 2024-01-16 [https://access.redhat.com/errata/RHBA-2024:0103](https://access.redhat.com/errata/RHBA-2024:0103)
         - Quay v3.9.7 released on 2024-05-15 [https://access.redhat.com/errata/RHBA-2024:2835](https://access.redhat.com/errata/RHBA-2024:2835)
-    - Quay 3.10.x (Full support)
+        - Quay v3.9.8 released on 2024-06-13 [https://access.redhat.com/errata/RHBA-2024:3922](https://access.redhat.com/errata/RHBA-2024:3922)
+    - **Quay 3.10.x (Full support)**
         - rQuay 3.10.0 eleased on 2023-11-30 [https://access.redhat.com/errata/RHBA-2023:7575](https://access.redhat.com/errata/RHBA-2023:7575)
         - Important: Red Hat Quay security update released on 2023-11-30 [https://access.redhat.com/errata/RHSA-2023:7341](https://access.redhat.com/errata/RHSA-2023:7341)
         - Red Hat Quay update released on 2023-11-30 [https://access.redhat.com/errata/RHBA-2023:7575](https://access.redhat.com/errata/RHBA-2023:7575)
@@ -835,7 +910,8 @@
         - Red Hat Quay v3.10.3 minor released on 2024-01-31 [https://access.redhat.com/errata/RHBA-2024:0382](https://access.redhat.com/errata/RHBA-2024:0382)
         - Red Hat Quay v3.10.4 minor released on 2024-02-27 [https://access.redhat.com/errata/RHBA-2024:0767](https://access.redhat.com/errata/RHBA-2024:0767)
         - Red Hat Quay v3.10.5 bug fix released on 2024-04-18 [https://access.redhat.com/errata/RHBA-2024:1714](https://access.redhat.com/errata/RHBA-2024:1714)
-    - Quay 3.11.x (Full support)
+        - Red Hat Quay v3.10.6 bug fix released on 2024-06-13 [https://access.redhat.com/errata/RHBA-2024:1714](https://access.redhat.com/errata/RHBA-2024:1714)
+    - **Quay 3.11.x (Full support)**
         - Red Hat Quay v3.11.0 minor release released on 2024-04-02 [https://access.redhat.com/errata/RHBA-2024:1475](https://access.redhat.com/errata/RHBA-2024:1475)
         - Red Hat Quay v3.11.1 bug fix release released on 2024-05-23 [https://access.redhat.com/errata/RHBA-2024:2926](https://access.redhat.com/errata/RHBA-2024:2926)
 
@@ -864,7 +940,8 @@
         - updated Red Hat Advanced Cluster Management for Kubernetes 2.7 for RHEL 8 container images released on 2023-10-30 [https://access.redhat.com/errata/RHBA-2023:6201](https://access.redhat.com/errata/RHBA-2023:6201)
         - RHBA: Red Hat Advanced Cluster Management 2.7.10 bug fixes and container updates released on 2023-12-11 [https://access.redhat.com/errata/RHBA-2023:7726](https://access.redhat.com/errata/RHBA-2023:7726)
         - Critical: Red Hat Advanced Cluster Management 2.7.11 security and bug fix container update released on 2024-02-07 [https://access.redhat.com/errata/RHSA-2024:0729](https://access.redhat.com/errata/RHSA-2024:0729)
-        - Red Hat Advanced Cluster Management 2.7.12 bug fixes and container updates released on 2024-03-19[https://access.redhat.com/errata/RHBA-2024:1378](https://access.redhat.com/errata/RHBA-2024:1378)
+        - Red Hat Advanced Cluster Management 2.7.12 bug fixes and container updates released on 2024-03-19 [https://access.redhat.com/errata/RHBA-2024:1378](https://access.redhat.com/errata/RHBA-2024:1378)
+        - Red Hat Advanced Cluster Management 2.7.13 released on 2024-06-05 [https://access.redhat.com/errata/RHBA-2024:3641](https://access.redhat.com/errata/RHBA-2024:3641)
     - RHACM 2.8 released on 2023-06-14
         - RHACM 2.8.0 released on 2023-06-14 / bugfix update [https://access.redhat.com/errata/RHBA-2023:3599](https://access.redhat.com/errata/RHBA-2023:3599)
         - Critical: Red Hat Advanced Cluster Management 2.8.1 security and bug fix updates released on 2023-08-30 [https://access.redhat.com/errata/RHSA-2023:4875](https://access.redhat.com/errata/RHSA-2023:4875)
@@ -890,6 +967,7 @@
         - RHEA: Submariner 0.16.3 - bug fix and enhancement update released on 2024-02-05 [https://access.redhat.com/errata/RHBA-2024:0686](https://access.redhat.com/errata/RHBA-2024:0686)
         - Critical: Red Hat Advanced Cluster Management 2.9.2 security and bug fix container updates released on 2024-01-18 [https://access.redhat.com/errata/RHSA-2024:0298](https://access.redhat.com/errata/RHSA-2024:0298)
         - Moderate: Red Hat Advanced Cluster Management 2.9.3 security and bug fix container updates released on 2024-03-14 [https://access.redhat.com/errata/RHSA-2024:1328](https://access.redhat.com/errata/RHSA-2024:1328)
+        - Red Hat Advanced Cluster Management 2.9.4 released on 2024-06-04 [https://access.redhat.com/errata/RHBA-2024:3593](https://access.redhat.com/errata/RHBA-2024:3593)
     - RHACM 2.10 released on 2024-03-20
         - Red Hat Advanced Cluster Management 2.10.0 bug fixes and enhancements released on 2024-03-20 [https://access.redhat.com/errata/RHBA-2024:1445](https://access.redhat.com/errata/RHBA-2024:1445)
         - Red Hat Advanced Cluster Management 2.10.1 bug fix advisory released on 2024-04-11 [https://access.redhat.com/errata/RHBA-2024:1793](https://access.redhat.com/errata/RHBA-2024:1793)
@@ -913,8 +991,10 @@
             - RHACS 4.3 bug fix update released on 2024-01-22 [https://access.redhat.com/errata/RHBA-2024:0316](https://access.redhat.com/errata/RHBA-2024:0316)
             - Moderate: ACS 4.3 enhancement and security update	released on 2024-03-13 [https://access.redhat.com/errata/RHSA-2024:1321](https://access.redhat.com/errata/RHSA-2024:1321)
             - Critical: ACS 4.3.6 enhancement and security update released on 2024-03-27 [https://access.redhat.com/errata/RHSA-2024:1549](https://access.redhat.com/errata/RHSA-2024:1549)
-            - ACS 4.3 enhancement update released on 2024-05-13 [https://access.redhat.com/errata/RHBA-2024:2824](https://access.redhat.com/errata/RHBA-2024:2824)
+            - RHACS 4.3.7 released on 2024-05-13 [https://access.redhat.com/errata/RHBA-2024:2824](https://access.redhat.com/errata/RHBA-2024:2824)
+            - RHACS 4.3.8 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3802](https://access.redhat.com/errata/RHEA-2024:3802)
         - ACS 4.4 GA on 2024-03-29
             - Important: ACS 4.4 enhancement and security update released on 2024-03-28 [https://access.redhat.com/errata/RHSA-2024:1570](https://access.redhat.com/errata/RHSA-2024:1570)
             - RHACS 4.4.1 enhancement update released on 2024-04-23 [https://access.redhat.com/errata/RHEA-2024:1964](https://access.redhat.com/errata/RHEA-2024:1964)
             - Important: RHACS 4.4.2 enhancement and security update released on 2024-05-21 [https://access.redhat.com/errata/RHSA-2024:2941](https://access.redhat.com/errata/RHSA-2024:2941)
+            - RHACS 4.4.3 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3804](https://access.redhat.com/errata/RHEA-2024:3804)

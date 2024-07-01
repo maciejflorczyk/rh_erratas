@@ -1,3 +1,17 @@
+- **RHOCP 4.16.z**
+    - **Red Hat OpenShift 4.16 is generally available (GA) on 2024-06-27**
+    - RHOCP 4.16.0 released on 2024-06-27 - [link](https://access.redhat.com/errata-search/?q=4.16.0&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+        - [https://access.redhat.com/errata/RHBA-2024:3867](https://access.redhat.com/errata/RHBA-2024:3867)
+        - [https://access.redhat.com/errata/RHEA-2024:0042](https://access.redhat.com/errata/RHEA-2024:0042)
+        - [https://access.redhat.com/errata/RHEA-2024:3973](https://access.redhat.com/errata/RHEA-2024:3973)
+        - [https://access.redhat.com/errata/RHEA-2024:3974](https://access.redhat.com/errata/RHEA-2024:3974)
+        - [https://access.redhat.com/errata/RHSA-2024:0040](https://access.redhat.com/errata/RHSA-2024:0040)
+        - [https://access.redhat.com/errata/RHSA-2024:0041](https://access.redhat.com/errata/RHSA-2024:0041)
+        - [https://access.redhat.com/errata/RHSA-2024:0043](https://access.redhat.com/errata/RHSA-2024:0043)
+        - [https://access.redhat.com/errata/RHSA-2024:0045](https://access.redhat.com/errata/RHSA-2024:0045)
+    - **Red Hat OpenShift 4.16 Maintenance support ends on 2025-12-27**
+    - **Red Hat OpenShift 4.16 Extended update support ends on 2026-06-27**
+    - **Red Hat Openshift 4.16 Extended update support Term 2 ends on 2027-06-27**
 - **RHOCP 4.15.z**
     - **Red Hat OpenShift 4.15 is generally available (GA) on 2024-02-27**
     - RHOCP 4.15.17 released on 2024-06-11 - [link](https://access.redhat.com/errata-search/?q=4.15.17&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)

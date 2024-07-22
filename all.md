@@ -2,6 +2,7 @@
     - **Red Hat OpenShift 4.16 is generally available (GA) on 2024-06-27**
     - RHOCP 4.16.0 released on 2024-06-27 - [link](https://access.redhat.com/errata-search/?q=4.16.0&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.16.1 released on 2024-07-03 - [link](https://access.redhat.com/errata-search/?q=4.16.0&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - RHOCP 4.16.2 released on 2024-07-09 - [link](https://access.redhat.com/errata-search/?q=4.16.2&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.16 Maintenance support ends on 2025-12-27**
     - **Red Hat OpenShift 4.16 Extended update support ends on 2026-06-27**
     - **Red Hat Openshift 4.16 Extended update support Term 2 ends on 2027-06-27**
@@ -114,7 +115,7 @@
         - [https://access.redhat.com/errata/RHBA-2024:4040](https://access.redhat.com/errata/RHBA-2024:4040)
     - RHOCP 4.15.20 skipped?
     - RHOCP 4.15.21 released on 2024-07-10 - [link](https://access.redhat.com/errata-search/?q=4.15.21&p=1&sort=portal_publication_date+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
-
+    - RHOCP 4.15.21 released on 2024-07-10 - [link](https://access.redhat.com/errata-search/?q=4.15.21&p=1&sort=portal_publication_date+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.15 Maintenance support ends on 2025-08-27**
 
 - **RHOCP 4.14.z**
@@ -305,6 +306,7 @@
         - [https://access.redhat.com/errata/RHSA-2024:4010](https://access.redhat.com/errata/RHSA-2024:4010)
         - [https://access.redhat.com/errata/RHBA-2024:4009](https://access.redhat.com/errata/RHBA-2024:4009)
     - RHOCP 4.14.32 released on 2024-07-11 - [link](https://access.redhat.com/errata-search/?q=4.14.32&p=1&sort=portal_publication_date+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - RHOCP 4.14.33 released on 2024-07-17 - [link](https://access.redhat.com/errata-search/?q=4.14.33&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.14 Extended update support ends on 2025-10-31**
 
 - **RHOCP 4.13.z**
@@ -548,6 +550,7 @@
         - [https://access.redhat.com/errata/RHBA-2024:3886](https://access.redhat.com/errata/RHBA-2024:3886)
         - [https://access.redhat.com/errata/RHSA-2024:3885](https://access.redhat.com/errata/RHSA-2024:3885)
         - [https://access.redhat.com/errata/RHBA-2024:3883](https://access.redhat.com/errata/RHBA-2024:3883)
+    - RHOCP 4.13.45 released on 2024-07-17 - [link](https://access.redhat.com/errata-search/?q=4.13.45&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.13 Maintenance support ends on 2024-11-17**
 
 - **RHOCP 4.12.z**
@@ -922,7 +925,7 @@
 
 
 - **RHACM**
-    - RHACM 2.7 released on 2023-02-07
+    - **RHACM 2.7 released on 2023-02-07**
         - RHACM 2.7.0 released on 2023-02-07
             - Security update - Important:
                 - Red Hat Advanced Cluster Management 2.7.0 security and bug fix updates released on 2023-02-07
@@ -947,7 +950,7 @@
         - Critical: Red Hat Advanced Cluster Management 2.7.11 security and bug fix container update released on 2024-02-07 [https://access.redhat.com/errata/RHSA-2024:0729](https://access.redhat.com/errata/RHSA-2024:0729)
         - Red Hat Advanced Cluster Management 2.7.12 bug fixes and container updates released on 2024-03-19 [https://access.redhat.com/errata/RHBA-2024:1378](https://access.redhat.com/errata/RHBA-2024:1378)
         - Red Hat Advanced Cluster Management 2.7.13 released on 2024-06-05 [https://access.redhat.com/errata/RHBA-2024:3641](https://access.redhat.com/errata/RHBA-2024:3641)
-    - RHACM 2.8 released on 2023-06-14
+    - **RHACM 2.8 released on 2023-06-14**
         - RHACM 2.8.0 released on 2023-06-14 / bugfix update [https://access.redhat.com/errata/RHBA-2023:3599](https://access.redhat.com/errata/RHBA-2023:3599)
         - Critical: Red Hat Advanced Cluster Management 2.8.1 security and bug fix updates released on 2023-08-30 [https://access.redhat.com/errata/RHSA-2023:4875](https://access.redhat.com/errata/RHSA-2023:4875)
         - Moderate: Red Hat Advanced Cluster Management 2.8.2 security and bug fix updates released on 2023-10-03 [https://access.redhat.com/errata/RHSA-2023:5442](https://access.redhat.com/errata/RHSA-2023:5442)

@@ -922,6 +922,8 @@
         - Red Hat Quay v3.11.0 minor release released on 2024-04-02 [https://access.redhat.com/errata/RHBA-2024:1475](https://access.redhat.com/errata/RHBA-2024:1475)
         - Red Hat Quay v3.11.1 bug fix release released on 2024-05-23 [https://access.redhat.com/errata/RHBA-2024:2926](https://access.redhat.com/errata/RHBA-2024:2926)
         - Red Hat Quay v3.11.2 bug fix release released on 2024-07-15 [https://access.redhat.com/errata/RHBA-2024:3938](https://access.redhat.com/errata/RHBA-2024:3938)
+   - **Quay 3.12.x released on 2024-07-24 (Full support)**
+        - Red Hat Quay v3.12.0 bug fix release released on 2024-07-24 [https://access.redhat.com/errata/RHBA-2024:4525](https://access.redhat.com/errata/RHBA-2024:4525)
 
 
 - **RHACM**
@@ -1007,3 +1009,5 @@
             - RHACS 4.4.1 enhancement update released on 2024-04-23 [https://access.redhat.com/errata/RHEA-2024:1964](https://access.redhat.com/errata/RHEA-2024:1964)
             - Important: RHACS 4.4.2 enhancement and security update released on 2024-05-21 [https://access.redhat.com/errata/RHSA-2024:2941](https://access.redhat.com/errata/RHSA-2024:2941)
             - RHACS 4.4.3 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3804](https://access.redhat.com/errata/RHEA-2024:3804)
+        - **RHACS 4.5 GA on 2024-07-24**
+            - Moderate: RHACS 4.5 enhancement and security update released on 2024-07-24 [https://access.redhat.com/errata/RHSA-2024:4836](https://access.redhat.com/errata/RHSA-2024:4836)

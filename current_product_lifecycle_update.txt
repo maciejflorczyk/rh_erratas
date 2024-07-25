@@ -26,7 +26,6 @@
     - RHOCP 4.13.44 released on 2024-06-19 - [link](https://access.redhat.com/errata-search/?q=4.13.44&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.13.45 released on 2024-07-17 - [link](https://access.redhat.com/errata-search/?q=4.13.45&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.13 Maintenance support ends on 2024-11-17**
-
 - **RHOCP 4.12.z**
     - **Red Hat OpenShift 4.12 is generally available (GA) on 2023-01-17**
     - RHOCP 4.12.58 released on 2024-05-30 - [link](https://access.redhat.com/errata-search/?q=4.12.58&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
@@ -47,7 +46,7 @@
         - Red Hat Quay v3.11.0 minor release released on 2024-04-02 [https://access.redhat.com/errata/RHBA-2024:1475](https://access.redhat.com/errata/RHBA-2024:1475)
         - Red Hat Quay v3.11.1 bug fix release released on 2024-05-23 [https://access.redhat.com/errata/RHBA-2024:2926](https://access.redhat.com/errata/RHBA-2024:2926)
         - Red Hat Quay v3.11.2 bug fix release released on 2024-07-15 [https://access.redhat.com/errata/RHBA-2024:3938](https://access.redhat.com/errata/RHBA-2024:3938)
-   - **Quay 3.12.x released on 2024-07-24 (Full support)**
+    - **Quay 3.12.x released on 2024-07-24 (Full support)**
         - Red Hat Quay v3.12.0 bug fix release released on 2024-07-24 [https://access.redhat.com/errata/RHBA-2024:4525](https://access.redhat.com/errata/RHBA-2024:4525)
 - **RHACM**
     - **RHACM 2.7 released on 2023-02-07**
@@ -82,4 +81,3 @@
             - RHACS 4.4.3 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3804](https://access.redhat.com/errata/RHEA-2024:3804)
         - **RHACS 4.5 GA on 2024-07-24**
             - Moderate: RHACS 4.5 enhancement and security update released on 2024-07-24 [https://access.redhat.com/errata/RHSA-2024:4836](https://access.redhat.com/errata/RHSA-2024:4836)
-            

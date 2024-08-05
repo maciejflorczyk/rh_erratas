@@ -3,9 +3,11 @@
     - RHOCP 4.16.0 released on 2024-06-27 - [link](https://access.redhat.com/errata-search/?q=4.16.0&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.16.1 released on 2024-07-03 - [link](https://access.redhat.com/errata-search/?q=4.16.0&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.16.2 released on 2024-07-09 - [link](https://access.redhat.com/errata-search/?q=4.16.2&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
-    - **Red Hat OpenShift 4.16 Maintenance support ends on 2025-12-27**
+
     - RHOCP 4.16.3 released on 2024-07-16 - [link](https://access.redhat.com/errata-search/?q=4.16.3&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.16.4 released on 2024-07-24 - [link](https://access.redhat.com/errata-search/?q=4.16.4&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - RHOCP 4.16.5 released on 2024-07-31 - [link](https://access.redhat.com/errata-search/?q=4.16.5&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - **Red Hat OpenShift 4.16 Maintenance support ends on 2025-12-27**
     - **Red Hat OpenShift 4.16 Extended update support ends on 2026-06-27**
     - **Red Hat Openshift 4.16 Extended update support Term 2 ends on 2027-06-27**
 - **RHOCP 4.15.z**
@@ -899,9 +901,6 @@
     - **Red Hat OpenShift 4.12 Maintenance support ends on 2024-07-17**
     - RHOCP 4.12.61 released on 2024-07-25 - [link](https://access.redhat.com/errata-search/?q=4.12.61&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.12 Extended update support ends on 2025-01-17**
-
-
-
 - **Quay**
     - **Quay 3.9.x (Maintenance support)**
         - Quay v3.9.0 released on 2023-08-14 [https://access.redhat.com/errata/RHBA-2023:3256](https://access.redhat.com/errata/RHBA-2023:3256)

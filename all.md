@@ -16,6 +16,8 @@
         - RHBA-2024:5757 OpenShift Container Platform 4.16.9 bug fix update [link](https://access.redhat.com/errata/RHBA-2024:5760)
         - RHBA-2024:5756 OpenShift Container Platform 4.16.9 security and extras update [link](https://access.redhat.com/errata/RHBA-2024:5757)
         - RHBA-2024:5758 OpenShift Container Platform 4.16.9 OLM Operators metadata update [link](https://access.redhat.com/errata/RHBA-2024:5758?sc_cid=701600000006NHXAA2)
+    - RHOCP 4.16.10 released on 2024-09-03 - [link](https://access.redhat.com/errata/RHSA-2024:6004)
+    - RHOCP 4.16.11 released on 2024-08-29 - [link]https://access.redhat.com/errata-search/?q=4.16.11&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.16 Maintenance support ends on 2025-12-27**
     - **Red Hat OpenShift 4.16 Extended update support ends on 2026-06-27**
     - **Red Hat Openshift 4.16 Extended update support Term 2 ends on 2027-06-27**
@@ -137,6 +139,9 @@
     - RHOCP 4.15.28 released on 2024-08-22 - [link](https://access.redhat.com/errata-search/?q=4.15.28&p=1&sort=portal_publication_date+desc&rows=10)
     - RHOCP 4.15.29 released on 2024-08-28 - [link](https://access.redhat.com/errata-search/?q=4.15.29&p=1&sort=portal_publication_date+desc&rows=10)
     - RHOCP 4.15.30 released on 2024-09-05 - [link](https://access.redhat.com/errata-search/?q=4.15.30&p=1&sort=portal_publication_date+desc&rows=10)
+    - RHOCP 4.15.31 released on 2024-09-11 - [link](https://access.redhat.com/errata-search/?q=4.15.31&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+
+
     - **Red Hat OpenShift 4.15 Maintenance support ends on 2025-08-27**
 
 - **RHOCP 4.14.z**
@@ -329,7 +334,8 @@
     - RHOCP 4.14.32 released on 2024-07-11 - [link](https://access.redhat.com/errata-search/?q=4.14.32&p=1&sort=portal_publication_date+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.14.33 released on 2024-07-17 - [link](https://access.redhat.com/errata-search/?q=4.14.33&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.14.34 released on 2024-08-07 - [link](https://access.redhat.com/errata-search/?q=4.14.34&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
-    - RHOCP 4.14.35 released on 2024-08-07 - [link](https://access.redhat.com/errata-search/?q=4.14.35&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - RHOCP 4.14.35 released on 2024-08-22 - [link](https://access.redhat.com/errata-search/?q=4.14.35&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - RHOCP 4.14.36 released on 2024-09-11 - [link](https://access.redhat.com/errata-search/?q=4.14.36&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.14 Extended update support ends on 2025-10-31**
 
 - **RHOCP 4.13.z**

@@ -2,8 +2,8 @@
     - **Red Hat OpenShift 4.17 is generally available (GA) on 2024-10-01**
     - RHOCP 4.17.0 released on 2024-10-01 - [link](https://access.redhat.com/errata-search/?q=4.17.0&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.17.1 released on 2024-10-16 - [link](https://access.redhat.com/errata-search/?q=4.17.1&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
+    - RHOCP 4.17.2 released on 2024-10-23 - [link](https://access.redhat.com/errata-search/?q=4.17.2&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.17 Maintenance support ends on 2026-04-01**
-
 - **RHOCP 4.16.z**
     - **Red Hat OpenShift 4.16 is generally available (GA) on 2024-06-27**
     - RHOCP 4.16.0 released on 2024-06-27 - [link](https://access.redhat.com/errata-search/?q=4.16.0&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
@@ -353,7 +353,7 @@
     - RHOCP 4.14.36 released on 2024-09-11 - [link](https://access.redhat.com/errata-search/?q=4.14.36&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.14.37 released on 2024-09-19 - [link](https://access.redhat.com/errata-search/?q=4.14.37&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - RHOCP 4.14.38 released on 2024-10-03 - [link](https://access.redhat.com/errata-search/?q=4.14.38&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
-
+    - RHOCP 4.14.38 released on 2024-10-23 - [link](https://access.redhat.com/errata-search/?q=4.14.39&p=1&sort=id+asc&rows=10&portal_product=Red%5C+Hat%5C+OpenShift%5C+Container%5C+Platform)
     - **Red Hat OpenShift 4.14 Extended update support ends on 2025-10-31**
 
 - **RHOCP 4.13.z**
@@ -1081,7 +1081,11 @@
             - RHACS 4.4.1 enhancement update released on 2024-04-23 [https://access.redhat.com/errata/RHEA-2024:1964](https://access.redhat.com/errata/RHEA-2024:1964)
             - Important: RHACS 4.4.2 enhancement and security update released on 2024-05-21 [https://access.redhat.com/errata/RHSA-2024:2941](https://access.redhat.com/errata/RHSA-2024:2941)
             - RHACS 4.4.3 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3804](https://access.redhat.com/errata/RHEA-2024:3804)
+            - RHACS 4.4.4 released on 2024-07-08 [https://access.redhat.com/errata/RHEA-2024:4388](https://access.redhat.com/errata/RHEA-2024:4388)
+            - RHACS 4.4.5 released on 2024-08-29 [https://access.redhat.com/errata/RHSA-2024:6054](https://access.redhat.com/errata/RHSA-2024:6054)
         - **RHACS 4.5 GA on 2024-07-24 (Full Support)**
             - Moderate: RHACS 4.5 enhancement and security update released on 2024-07-24 [https://access.redhat.com/errata/RHSA-2024:4836](https://access.redhat.com/errata/RHSA-2024:4836)
             - RHACS 4.5.1 released on 2024-08-15 [https://access.redhat.com/errata/RHBA-2024:5474](https://access.redhat.com/errata/RHBA-2024:5474)
-    
+            - RHACS 4.5.2 released on 2024-09-16 [https://access.redhat.com/errata/RHSA-2024:6708](https://access.redhat.com/errata/RHSA-2024:6708)
+            - RHACS 4.5.3 released on 2024-10-01 [https://access.redhat.com/errata/RHSA-2024:7443](https://access.redhat.com/errata/RHSA-2024:7443)
+            - RHACS 4.5.4 released on 2024-10-16 [https://access.redhat.com/errata/RHBA-2024:8204](https://access.redhat.com/errata/RHBA-2024:8204)

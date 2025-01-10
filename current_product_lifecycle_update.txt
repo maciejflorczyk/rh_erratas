@@ -85,7 +85,7 @@
         - **RHACS 4.3 (End of life)**
             - Critical: ACS 4.3.6 enhancement and security update released on 2024-03-27 [https://access.redhat.com/errata/RHSA-2024:1549](https://access.redhat.com/errata/RHSA-2024:1549)
             - RHACS 4.3.7 released on 2024-05-13 [https://access.redhat.com/errata/RHBA-2024:2824](https://access.redhat.com/errata/RHBA-2024:2824)
-            - RHACS 4.3.8 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3802](https://access.redhat.com/errata/RHEA-2024:3802)
+Ō            - RHACS 4.3.8 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3802](https://access.redhat.com/errata/RHEA-2024:3802)
         - **RHACS 4.4 GA on 2024-03-29 (Maintenance Support)**
             - RHACS 4.4.3 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3804](https://access.redhat.com/errata/RHEA-2024:3804)
             - RHACS 4.4.4 released on 2024-07-08 [https://access.redhat.com/errata/RHEA-2024:4388](https://access.redhat.com/errata/RHEA-2024:4388)

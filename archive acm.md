@@ -41,3 +41,47 @@
         - Critical: Red Hat Advanced Cluster Management 2.6.7 security and bug fix updates [https://access.redhat.com/errata/RHSA-2023:4980](https://access.redhat.com/errata/RHSA-2023:4980)
         - Important: Red Hat Advanced Cluster Management 2.6.8 security and bug fix updates	released on 2023-10-30 [https://access.redhat.com/errata/RHSA-2023:6202](https://access.redhat.com/errata/RHSA-2023:6202)
         - updated Red Hat Advanced Cluster Management for Kubernetes 2.6 for RHEL 8 container images released on 2023-10-30 [https://access.redhat.com/errata/RHBA-2023:6294](https://access.redhat.com/errata/RHBA-2023:6294)
+    - **RHACM 2.7 released on 2023-02-07 (End of life)**
+        - RHACM 2.7.0 released on 2023-02-07
+            - Security update - Important:
+                - Red Hat Advanced Cluster Management 2.7.0 security and bug fix updates released on 2023-02-07
+                    - [RHSA-2023:0630](https://access.redhat.com/errata/RHSA-2023:0630)
+        - RHACM 2.7.1 released on 2023-03-02
+            - bugfix update [RHBA-2023:1057](https://access.redhat.com/errata/RHBA-2023:1057)
+        - RHACM 2.7.2 released on 2023-03-15
+            - bugfix update [RHBA-2023:1259](https://access.redhat.com/errata/RHBA-2023:1259)
+        - RHACM 2.7.3 released on 2023-04-20
+            - Critical: Red Hat Advanced Cluster Management 2.7.3 security fixes and bug fixes [https://access.redhat.com/errata/RHSA-2023:1888](https://access.redhat.com/errata/RHSA-2023:1888)
+        - RHACM 2.7.4 released on 2023-05-24
+            - Critical: Red Hat Advanced Cluster Management 2.7.4 security fixes and container updates [https://access.redhat.com/errata/RHSA-2023:3297](https://access.redhat.com/errata/RHSA-2023:3297)
+        - RHACM 2.7.5 released on 2023-06-22
+            - bug fixes and container updates [https://access.redhat.com/errata/RHBA-2023:3778](https://access.redhat.com/errata/RHBA-2023:3778)
+        - RHACM 2.7.6 released on 2023-07-06
+            - bug fixes and container updates [https://access.redhat.com/errata/RHBA-2023:3971](https://access.redhat.com/errata/RHBA-2023:3971)
+        - Critical: Red Hat Advanced Cluster Management 2.7.7 security and bug fix updates released on 2023-08-15 [https://access.redhat.com/errata/RHSA-2023:4654](https://access.redhat.com/errata/RHSA-2023:4654)
+        - Red Hat Advanced Cluster Management 2.7.8 bug fixes and container updates	released on 2023-09-27 [https://access.redhat.com/errata/RHBA-2023:5375](https://access.redhat.com/errata/RHBA-2023:5375)
+        - Important: Red Hat Advanced Cluster Management 2.7.9 security and bug fix updates	[https://access.redhat.com/errata/RHSA-2023:6148](https://access.redhat.com/errata/RHSA-2023:6148)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.7 for RHEL 8 container images released on 2023-10-30 [https://access.redhat.com/errata/RHBA-2023:6201](https://access.redhat.com/errata/RHBA-2023:6201)
+        - RHBA: Red Hat Advanced Cluster Management 2.7.10 bug fixes and container updates released on 2023-12-11 [https://access.redhat.com/errata/RHBA-2023:7726](https://access.redhat.com/errata/RHBA-2023:7726)
+        - Critical: Red Hat Advanced Cluster Management 2.7.11 security and bug fix container update released on 2024-02-07 [https://access.redhat.com/errata/RHSA-2024:0729](https://access.redhat.com/errata/RHSA-2024:0729)
+        - Red Hat Advanced Cluster Management 2.7.12 bug fixes and container updates released on 2024-03-19 [https://access.redhat.com/errata/RHBA-2024:1378](https://access.redhat.com/errata/RHBA-2024:1378)
+        - Red Hat Advanced Cluster Management 2.7.13 released on 2024-06-05 [https://access.redhat.com/errata/RHBA-2024:3641](https://access.redhat.com/errata/RHBA-2024:3641)
+    - **RHACM 2.8 released on 2023-06-14 (End of life)**
+        - RHACM 2.8.0 released on 2023-06-14 / bugfix update [https://access.redhat.com/errata/RHBA-2023:3599](https://access.redhat.com/errata/RHBA-2023:3599)
+        - Critical: Red Hat Advanced Cluster Management 2.8.1 security and bug fix updates released on 2023-08-30 [https://access.redhat.com/errata/RHSA-2023:4875](https://access.redhat.com/errata/RHSA-2023:4875)
+        - Moderate: Red Hat Advanced Cluster Management 2.8.2 security and bug fix updates released on 2023-10-03 [https://access.redhat.com/errata/RHSA-2023:5442](https://access.redhat.com/errata/RHSA-2023:5442)
+        - Red Hat Advanced Cluster Management 2.8.2 bug fix updates	released on 2023-10-12 [https://access.redhat.com/errata/RHBA-2023:5695](https://access.redhat.com/errata/RHBA-2023:5695)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.5 for RHEL 8 container images released on 2023-10-19 [https://access.redhat.com/errata/RHBA-2023:5939](https://access.redhat.com/errata/RHBA-2023:5939)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.6 for RHEL 8 container images released on 2023-10-19 [https://access.redhat.com/errata/RHBA-2023:5940](https://access.redhat.com/errata/RHBA-2023:5940)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.7 for RHEL 8 container images released on 2023-10-19 [https://access.redhat.com/errata/RHBA-2023:5941](https://access.redhat.com/errata/RHBA-2023:5941)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.8 for RHEL 8 container images released on 2023-10-19 [https://access.redhat.com/errata/RHBA-2023:5942](https://access.redhat.com/errata/RHBA-2023:5942)
+        - Important: Red Hat Advanced Cluster Management 2.8.3 security and bug fix updates released on 2023-10-25 [https://access.redhat.com/errata/RHSA-2023:6122](https://access.redhat.com/errata/RHSA-2023:6122)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.7 for RHEL 8 container images released on 2023-10-26 [https://access.redhat.com/errata/RHBA-2023:6140](https://access.redhat.com/errata/RHBA-2023:6140)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.8 for RHEL 8 container images released on 2023-10-26 [https://access.redhat.com/errata/RHBA-2023:6142](https://access.redhat.com/errata/RHBA-2023:6142)
+        - Red Hat Advanced Cluster Management 2.8.4 bug fixes and container updates	released on 2023-11-30 [https://access.redhat.com/errata/RHBA-2023:7621](https://access.redhat.com/errata/RHBA-2023:7621)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.5 for RHEL 8 container images [https://access.redhat.com/errata/RHBA-2023:7652](https://access.redhat.com/errata/RHBA-2023:7652)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.6 for RHEL 8 container images [https://access.redhat.com/errata/RHBA-2023:7654](https://access.redhat.com/errata/RHBA-2023:7654)
+        - updated Red Hat Advanced Cluster Management for Kubernetes 2.8 for RHEL 8 container images [https://access.redhat.com/errata/RHBA-2023:7659](https://access.redhat.com/errata/RHBA-2023:7659)
+        - Critical: Red Hat Advanced Cluster Management 2.8.5 security and bug fix container updates released on 2024-02-14 [https://access.redhat.com/errata/RHSA-2024:0820](https://access.redhat.com/errata/RHSA-2024:0820)
+        - Moderate: Red Hat Advanced Cluster Management 2.8.6 security and bug fix updates released on 2024-04-03 [https://access.redhat.com/errata/RHSA-2024:1665](https://access.redhat.com/errata/RHSA-2024:1665)
+        - Important: Red Hat Advanced Cluster Management 2.8.7 bug fixes and security updates released on 2024-07-30 [https://access.redhat.com/errata/RHSA-2024:4922](https://access.redhat.com/errata/RHSA-2024:4922)

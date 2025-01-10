@@ -1,3 +1,5 @@
+
+
 - **RHACS EOL**
     - RHACS 3.71 released on July 25th [Release Notes](https://access.redhat.com/errata/RHSA-2022:5704)
         - RHACS 3.71.1 released on October 4th [Release Notes](https://access.redhat.com/errata/RHBA-2022:6793)
@@ -43,3 +45,20 @@
             - Important: RHACS 4.1 enhancement and security update relesed on 2023-10-18 [https://access.redhat.com/errata/RHSA-2023:5851](https://access.redhat.com/errata/RHSA-2023:5851)
             - Important: ACS 4.1 enhancement update	released on 2023-11-08 [https://access.redhat.com/errata/RHSA-2023:6828](https://access.redhat.com/errata/RHSA-2023:6828)
             - Important: ACS 4.1 enhancement update	released on 2024-01-22 [https://access.redhat.com/errata/RHSA-2024:0332](https://access.redhat.com/errata/RHSA-2024:0332)
+        - **RHACS 4.2 (End of life)**
+            - Moderate: RHACS 4.2 enhancement and security update relesed on 2023-09-18  [https://access.redhat.com/errata/RHSA-2023:5206](https://access.redhat.com/errata/RHSA-2023:5206)
+            - RHACS 4.2 bug fix update relesed on 2023-10-03  [https://access.redhat.com/errata/RHBA-2023:5422](https://access.redhat.com/errata/RHBA-2023:5422)
+            - Important: ACS 4.2 enhancement and security update relesed on 2023-10-23 [https://access.redhat.com/errata/RHSA-2023:6048](https://access.redhat.com/errata/RHSA-2023:6048)
+            - ACS 4.2 bug fix update released on 2023-11-27 [https://access.redhat.com/errata/RHBA-2023:7518](https://access.redhat.com/errata/RHBA-2023:7518)
+            - Important: RHACS 4.2 security update released on 2024-01-22 [https://access.redhat.com/errata/RHSA-2024:0337](https://access.redhat.com/errata/RHSA-2024:0337)
+            - ACS 4.2 bug fix update released on 2024-03-14 [https://access.redhat.com/errata/RHBA-2024:1341](https://access.redhat.com/errata/RHBA-2024:1341)
+        - **RHACS 4.3 (End of life)**
+            - ACS 4.3 enhancement update released on 2023-11-15 [https://access.redhat.com/errata/RHEA-2023:7235](https://access.redhat.com/errata/RHEA-2023:7235)
+            - Moderate: RHACS 4.3 enhancement and security update released on 2023-12-11 [https://access.redhat.com/errata/RHSA-2023:7725](https://access.redhat.com/errata/RHSA-2023:7725)
+            - ACS 4.3 bug fix update released on 2024-01-08 [https://access.redhat.com/errata/RHBA-2024:0083](https://access.redhat.com/errata/RHBA-2024:0083)
+            - ACS 4.3 bug fix update released on 2024-01-17 [https://access.redhat.com/errata/RHBA-2024:0275](https://access.redhat.com/errata/RHBA-2024:0275)
+            - RHACS 4.3 bug fix update released on 2024-01-22 [https://access.redhat.com/errata/RHBA-2024:0316](https://access.redhat.com/errata/RHBA-2024:0316)
+            - Moderate: ACS 4.3 enhancement and security update	released on 2024-03-13 [https://access.redhat.com/errata/RHSA-2024:1321](https://access.redhat.com/errata/RHSA-2024:1321)
+            - Critical: ACS 4.3.6 enhancement and security update released on 2024-03-27 [https://access.redhat.com/errata/RHSA-2024:1549](https://access.redhat.com/errata/RHSA-2024:1549)
+            - RHACS 4.3.7 released on 2024-05-13 [https://access.redhat.com/errata/RHBA-2024:2824](https://access.redhat.com/errata/RHBA-2024:2824)
+            - RHACS 4.3.8 released on 2024-06-11 [https://access.redhat.com/errata/RHEA-2024:3802](https://access.redhat.com/errata/RHEA-2024:3802)
